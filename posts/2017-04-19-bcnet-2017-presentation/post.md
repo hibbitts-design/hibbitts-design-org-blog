@@ -10,7 +10,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : BCNET 2017 Presentation
     'twitter:description' : Leveraging a Modern Flat-file CMS as an Open and Collaborative Partner for Your LMS
-    'twitter:image': 'http://hibbittsdesign.org/posts/2017-04-25-bcnet-2017-presentation/powerpoint.png'
+    'twitter:image': 'http://hibbittsdesign.org/posts/2017-04-19-bcnet-2017-presentation/powerpoint.png'
 ---
 
 I am really looking forward to being part of the [BCNET 2017](http://bcnet.cvent.com/events/bcnet-conference-2017/event-summary-7d1d8eba25ad40f185f368a0c8095418.aspx) conference in Vancouver next week!
