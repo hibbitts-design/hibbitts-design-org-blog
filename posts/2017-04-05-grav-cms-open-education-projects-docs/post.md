@@ -5,7 +5,6 @@ continue_link: false
 taxonomy:
     tags:
         - GravCMS
-        - Featured
         - Guide
 metadata:
     'twitter:card' : summary
