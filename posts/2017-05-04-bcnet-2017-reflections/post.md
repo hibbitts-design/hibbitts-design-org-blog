@@ -10,7 +10,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : BCNET 2017 Presentation
     'twitter:description' : Looking back at BCNET 2017
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-05-04-bcnet-2017-reflections/powerpoint.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-05-04-bcnet-2017-reflections/hc.jpg'
 ---
 
 Participating in the BCNET Conference in Vancouver last week really helped me to clarify the positioning of the [Grav CMS](http://getgrav.org) for use in the field of education.
