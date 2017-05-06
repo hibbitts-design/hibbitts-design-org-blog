@@ -13,7 +13,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-05-04-bcnet-2017-reflections/hc.jpg'
 ---
 
-It was a pleasure to be a part of the BCNET Conference in Vancouver last week! In particular, various discussions with my fellow conference participants really helped me to clarify the positioning of the [Grav CMS](http://getgrav.org) for use in the field of education.
+It was a pleasure to be a part of the BCNET Higher Education IT Conference in Vancouver last week! In particular, various discussions with my fellow attendees really helped me to clarify the positioning of the [Grav CMS](http://getgrav.org) for use in the field of education.
 
 ===
 
