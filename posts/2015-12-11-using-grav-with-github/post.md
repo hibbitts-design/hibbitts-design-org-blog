@@ -25,7 +25,7 @@ As a modern flat-file CMS, [Grav](http:getgrav.org) can take full advantage of t
 
 ===
 
-!! This guide is now outdated. View the updated [GitHub & GitHub Desktop](http://learn.hibbittsdesign.org/github-githubdesktop) documentation on the new  [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
+!! This guide is now outdated. View the updated [GitHub & GitHub Desktop](http://learn.hibbittsdesign.org/github-githubdesktop) tutorial on the new  [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
 
 As an educator, the use of a service such as GitHub to store an online course companion is very appealing as not only does it support an open practice but also enables students to control the very learning environment that they are using. I first described this workflow in my earlier article [My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor).
 
