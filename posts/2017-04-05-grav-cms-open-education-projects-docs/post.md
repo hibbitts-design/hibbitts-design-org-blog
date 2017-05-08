@@ -6,6 +6,7 @@ taxonomy:
     tags:
         - GravCMS
         - Guide
+        - Tutorial
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
