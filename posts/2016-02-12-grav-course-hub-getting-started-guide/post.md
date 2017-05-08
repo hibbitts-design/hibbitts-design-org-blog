@@ -14,13 +14,13 @@ taxonomy:
         - Guide
 ---
 
-This is a brief guide to help educators use the [Grav Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) as an open and collaborative multi-device partner for their LMS. In other words, to '[flip'](../2015-10-20-flipped-lms-defined) it good!  
+This is a brief guide to help tech-savvy educators ['flip'](../2015-10-20-flipped-lms-defined) their LMS with the modern flat-file (no database) CMS [Grav](http://www.getgrav.org) and my open source [Course Hub ](https://github.com/hibbitts-design/grav-skeleton-course-hub) skeleton package.  
 
 ![Grav Course Hub Screenshot](screenshot-2.jpg)
 
 ===
 
-! This guide has been updated to reflect that the [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav) is now included with the Grav Course Hub.
+!! This guide is now outdated. View the updated [Open Course Hub](http://learn.hibbittsdesign.org/coursehub) documentation on the new  [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
 
 **Table of Contents**  
 [Course Hub Overview](#course-hub-overview)  
@@ -31,9 +31,7 @@ This is a brief guide to help educators use the [Grav Course Hub](https://github
 [Setting Up a Course in Grav Course Hub](#setting-up-a-course)  
 
 ## Course Hub Overview
-The Course Hub skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](../2015-12-18-flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
-
-Can't wait to see the flipped LMS approach in action? Explore a mid-term snapshot of the [SFU CMPT-363 Grav Course Hub](http://paulhibbitts.net/grav/cmpt-363-163-demo/), partnered with the [Canvas LMS](https://www.canvaslms.com/).    
+The Course Hub skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](../2015-12-18-flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.  
 
 ### Course Hub Features
 * A complete ready-to-run Grav package ([Source on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub))
@@ -45,16 +43,16 @@ Can't wait to see the flipped LMS approach in action? Explore a mid-term snapsho
 * Image header area above Hub navigation bar
 * Sidebar is a simple markdown file, which can also contain HTML
 * URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
-* Creative Commons (CC) License picker
 * External links are automatically opened in a new Tab/Window
-* Built-in support for Git Sync plugin for 'set-and-forget' syncing to GitHub or GitLab for collaborative site editing
+* Built-in support for entire Hub to be collaboratively maintained on GitHub or GitLab (for local hosting)
 * Since everything is built with Grav it can be _entirely_ customized
 
 ### Required Technical Skills
+* Code editor usage (e.g. [Atom](https://atom.io/) or [Brackets](http://brackets.io/))
 * Markdown or HTML basics
 * Understanding folder hierarchies (i.e. relative links)
 * Webserver access
-* GitHub, GitLab, etc. working knowledge (recommended)
+* GitHub working knowledge (recommended)
 
 ## Flipping your LMS with Grav
 ### What is a Flipped LMS?
@@ -85,10 +83,9 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
 Want to learn more about flipping your LMS with an open and collaborative platform such as Grav? Explore more visualizations in the article [Flipped-LMS Approach Using an Open and Collaborative Web Platform](http://hibbittsdesign.org/blog/posts/2015-12-18-flipped-lms-using-an-open-and-collaborative-platform)
 
 ## Installing the Course Hub
-### Web Install
+### Web Only (Quick Install)
 **Pre-flight Checklist**  
 1. Confirm Webserver PHP version (PHP 5.5.9 or higher)
-1. Git (v. 1.7.1 or higher) is available on Webserver
 1. Webserver login credentials (username and password)
 
 **Installation Steps**  
@@ -97,16 +94,31 @@ Want to learn more about flipping your LMS with an open and collaborative platfo
 1. Copy the _entire_ Grav Course Hub folder to your Webserver
 1. Point your browser to the Webserver folder
 1. Create your site administrator account when prompted
-1. And you're Grav Course Hub is now up and running (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
+1. And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
 
-### Git Sync Configuration
-On the far-right of your site menubar there will be a reminder displayed to complete the two steps to enable GitHub/GitLab syncing and editing of your site content. First tap on the ```Setup Git Sync Plugin (Step 1 of 2)``` menubar link, complete the displayed setup wizard, then return to viewing your site and tap the ```Setup Edit Page in Git Link (Step of 2)``` menubar link and provide the base URL to your created Git repository.
+### Desktop and Webserver (Recommended Install)
+**Pre-flight Checklist**  
+1. Confirm Webserver PHP version (PHP 5.5.9 or higher)
+1. Download and install MAMP ([https://www.mamp.info/](https://www.mamp.info/))
 
-If you would prefer to not use Git Sync with your Course Hub, in your Admin Panel go to the ```Site``` tab on the ```Configuration``` page and set the ```Display of Edit Page Link``` option to ```None``` and then tap ```Save```.
+**Desktop Installation Steps**  
+1. Download the ready-to-run [Course Hub Skeleton Package](../../downloads/grav-skeleton-course-hub-site.zip) ([GitHub Repo](https://github.com/hibbitts-design/grav-skeleton-course-hub))
+1. Unzip the Grav package onto your desktop
+1. Create a folder called 'MAMP Websites' in your 'Documents' folder
+1. Copy the _entire_ Grav folder into your 'MAMP Websites' folder
+1. Launch MAMP
+1. Change the 'Document Root' setting on the MAMP preferences ‘Webserver’ tab to the 'MAMP Websites' folder (within 'Documents')
+1. Press the MAMP 'Start Servers' button
+1. Enter 'localhost:8888' as the URL in your Web Browser
+1. Choose the displayed Grav folder name
+1. Create your site administrator account when prompted
+1. And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
 
-## Git Sync Configuration Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6SWdIK6N-C0" frameborder="0" allowfullscreen></iframe>
-Video 1. Course Hub Setup with GitHub Editing._
+If you would like a more detailed step-by-step guide to the above desktop installation process, please see the article [Running Grav Locally with MAMP](../2015-11-16-running-grav-locally-with-mamp).
+
+Now that you have a Grav site running on your computer you need to sync those site files to your Webserver. My preferred method is to use a public GitHub (Git) repository (to enable contributions by course participants) and an automatic deployment service, as described in the post [Using Grav with GitHub Desktop](../2015-12-11-using-grav-with-github). If you want to keep your source files to yourself, then using a private [Beanstalk](http://beanstalkapp.com/) repository would be a no-cost option as described in the post [Using GitHub Desktop and Beanstalk with Grav](../2016-02-22-using-github-desktop-and-beanstalk-with-Grav).
+
+If you are interested in storing your Git repository on your own servers, then the open source tool [GitLab](https://about.gitlab.com/) could be an option, as described in the post [Using GitHub Desktop and GitLab with Grav](../2016-04-04-using-github-desktop-and-gitlab-with-Grav).
 
 ## Working with Grav
 Now that the Grav Course Hub is up and running you are ready to start working with Grav! To learn how Grav is organized, and how to add and edit pages, read the [Grav Basic Tutorial](https://learn.getgrav.org/basics/basic-tutorial).
@@ -116,7 +128,7 @@ You can view the all of the official Grav documentation at [learn.grav.org](http
 ### Grav for Educators Workshop Slides
 
 If you are new to Grav, you might find these workshop slides helpful:
-<div class="videoWrapper"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+![Moving Beyond the LMS with Grav Slides](http://slides.com/paulhibbitts/grav-cms-for-educators/)
 
 ## Using Git and GitHub Desktop
 * [Git for Designers](http://danielfos.co/notes/git-for-designers)  

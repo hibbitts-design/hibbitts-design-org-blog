@@ -19,7 +19,7 @@ This is a guide on how to setup your Grav Course Hub for a single course using t
 
 ===
 
-! This guide will be substantially updated once the pre-release [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav) for Grav is officially released (expected to be early 2017).
+!! This guide is now outdated. View the updated [Setting up a Course](http://learn.hibbittsdesign.org/coursehub/setting-up-a-course) documentation on the new [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
 
 **Table of Contents**  
 [Overview of How the Course Hub is Organized](#overview-of-how-the-course-hub-is-organized)  

@@ -13,17 +13,18 @@ taxonomy:
         - GravCMS
         - GitLab
         - GitHubDesktop
+        - Tutorial
 ---
 
 In this article, we will look at how to use Grav with [GitHub Desktop](https://desktop.github.com/) and [GitLab](https://about.gitlab.com/). Unlike GitHub, you can install GitLab onto your own server, which is an attractive option for many higher education institutions. A locally hosted version of GitLab is used in this walkthrough.
 
+===
+
+!! This article is now outdated. View the updated tutorial [GitLab & GitHub Desktop](http://learn.hibbittsdesign.org/gitlab-githubdesktop) on the new [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
+
 Speaking of Higher Ed folks, if this process looks out of your comfort zone then likely someone in your local IT services should be able to help you get things going pretty quickly by just following this tutorial themselves.
 
 You will be required to enter a few commands into your Mac or PC command line interface (CLI) during this the process, so warm up those typing fingers and let's get going.
-
-===
-
-! This article will be substantially updated once the pre-release [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav) for Grav is officially released (expected in February).
 
 **Step-by-step instructions**
 
