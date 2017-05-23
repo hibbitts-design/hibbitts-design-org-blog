@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... When Grav (and not WordPress) in the Field of Education?"
+title: "A Few Thoughts About... When Grav CMS (and not WordPress) in the Field of Education?"
 date: 05/24/2017
 published: true
 continue_link: true
@@ -10,13 +10,13 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : When Grav (and not WordPress) in the Field of Education?
-    'twitter:description' : A collection of tweets highlighting some key aspects of Grav in the field of [open] education.
+    'twitter:title' : When Grav CMS (and not WordPress) in the Field of Education?
+    'twitter:description' : A collection of tweets highlighting some key aspects of the Grav CMS in the field of [open] education.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-05-24-when-grav-and-not-wordpress-in-the-field-of-education/gravdotorg.png'
-    'og:title' : When Grav (and not WordPress) in the field of Education?
-    'og:image' : 'http://hibbittsdesign.org/blog/posts/2017-05-24-when-grav-and-not-wordpress-in-the-field-of-education/gravdotorg.png'
-    'og:description' : A collection of tweets highlighting some key aspects of Grav in the field of [open] education.
-    'og:url' : 2017-05-24-when-grav-and-not-wordpress-in-the-field-of-education
+    'og:title' : When Grav CMS (and not WordPress) in the field of Education?
+    'og:image' : 'http://hibbittsdesign.org/blog/posts/2017-05-24-when-grav-cms-and-not-wordpress-in-the-field-of-education/gravdotorg.png'
+    'og:description' : A collection of tweets highlighting some key aspects of the Grav CMS in the field of [open] education.
+    'og:url' : 2017-05-24-when-grav-cms-and-not-wordpress-in-the-field-of-education
 ---
 
 _I recently tweeted some key aspects of when to use the Grav CMS in the field of education, and I thought I would share them here:_
