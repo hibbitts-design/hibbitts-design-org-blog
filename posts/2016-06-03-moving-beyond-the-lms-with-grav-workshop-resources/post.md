@@ -15,7 +15,7 @@ taxonomy:
         - Workshop
 ---
 
-Here is the list of resources for participants in my **Moving Beyond the LMS with Grav** workshop (URL of this page is [bit.ly/1Y6Aiso](http://bit.ly/1Y6Aiso)):
+Here is the list of resources for participants in my **Moving Beyond the LMS with Grav** workshop (URL of this page is  [bit.ly/1Y6Aiso](http://bit.ly/1Y6Aiso)):
 
 # Grav Skeleton Downloads
 * [Grav Demo Site](../../downloads/grav-demo-site.zip) (bit.ly/287a6SL)
@@ -23,7 +23,7 @@ Here is the list of resources for participants in my **Moving Beyond the LMS wit
 
 ===
 
-! The Grav Course Hub installation process has been substantially simplified with the release of the [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav). Check out the revised [Grav Course Hub Getting Started Guide](../2016-02-12-grav-course-hub-getting-started-guide) to see the current installation process.
+!! The Grav Course Hub installation process has been substantially simplified with the release of the [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav). View the updated [Open Course Hub](http://learn.hibbittsdesign.org/coursehub) documentation on the new  [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
 
 # Course Hub Documentation
 * [Demo](http://demo.hibbittsdesign.org/grav-course-hub/) (demo.hibbittsdesign.org/grav-course-hub/)
