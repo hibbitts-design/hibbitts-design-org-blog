@@ -23,7 +23,7 @@ Here is the list of resources for participants in my **Moving Beyond the LMS wit
 
 ===
 
-!! The Grav Course Hub installation process has been substantially simplified with the release of the [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav). View the updated [Open Course Hub](http://learn.hibbittsdesign.org/coursehub) documentation on the new  [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
+! The Grav Course Hub installation process has been substantially simplified with the release of the [Git Sync plugin](../2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav). View the updated [Open Course Hub](http://learn.hibbittsdesign.org/coursehub) documentation on the new  [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
 
 # Course Hub Documentation
 * [Demo](http://demo.hibbittsdesign.org/grav-course-hub/) (demo.hibbittsdesign.org/grav-course-hub/)
