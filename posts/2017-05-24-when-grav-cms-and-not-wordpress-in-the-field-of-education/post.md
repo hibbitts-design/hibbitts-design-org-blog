@@ -1,6 +1,6 @@
 ---
 title: "A Few Thoughts About... When Grav CMS (and not WordPress) in the Field of Education?"
-date: 05/24/2017
+date: 06/05/2017
 published: true
 continue_link: true
 taxonomy:
