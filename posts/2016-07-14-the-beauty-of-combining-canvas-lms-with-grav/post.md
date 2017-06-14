@@ -21,6 +21,8 @@ taxonomy:
 
 This post was inspired by the very informative July 14th [BCcampus](bccampus.ca) Canvas LMS session with [Stan Wendt](https://twitter.com/stanwendt) and moderated by [Clint Lalonde](https://twitter.com/clintlalonde).
 
+! For people who are interested in _blending_ a Grav CMS site within their Canvas course site, the [Redirect Tool](https://www.eduappcenter.com/apps/63#.WUFlPhPysXo) is surprisingly versatile. View a demo of this technique at [https://canvas.sfu.ca/courses/33510/external_tools/5483](https://canvas.sfu.ca/courses/33510/external_tools/5483) using my [Grav CMS ePortfolio Blog package](http://learn.hibbittsdesign.org/eportfolioblog).
+
 If my reading of the tea leaves is correct, there could be a big uptake of the use of the [Canvas LMS](https://www.canvaslms.com/) in Canada with news of a possible hosted in Canada cloud offering. As a sessional faculty member of the [Computing Science Department](http://www.sfu.ca/computing.html) at [Simon Fraser University](http://www.sfu.ca) I've been using Canvas for the past several years and I thought it might be helpful for other potential users of Canvas to share my experiences so far.
 
 ===
