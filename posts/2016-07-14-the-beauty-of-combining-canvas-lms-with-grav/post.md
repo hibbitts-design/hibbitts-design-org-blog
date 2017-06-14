@@ -81,7 +81,7 @@ All content within Grav is stored as simple files, which means that you can choo
 Here is an example Grav Course Hub page, with a link to edit that page via GitHub:
 ![Canvas 2016 CMPT 363 Syllabus](resources-web-2016.png)
 
-And here is what the same page on GitHub looks like:
+And here is what the same page on SFU's hosted GitLab looks like:
 ![Canvas 2016 CMPT 363 Syllabus on GitLab](resources-github-2016.png)
 
 In addition to opening up all kinds of collaborative editing possibilities with very comprehensive version tracking, the use of GitHub/GitLab with Grav also can dramatically decrease the time it takes to update your course materials. With locally running a copy of your Grav site with a Mac/Windows application called [MAMP](http://mamp.info) you can edit course materials in the desktop text editor of your choice and very quickly commit and deploy these changes to your Webserver in as little time as _30 seconds_.
