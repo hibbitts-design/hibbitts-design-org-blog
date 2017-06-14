@@ -102,4 +102,4 @@ To help other tech-savvy instructors flip their LMS (including Canvas) with Grav
 If you prefer video over text, you might find this 10-minute overview of the Grav Course Hub of interest (originally presented at the [Open Apereo 2016 Conference](http://conference.apereo.org/)):
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XUJIbxDuPpQ" frameborder="0" allowfullscreen></iframe>
 
-UPDATE: I've replaced the original Course Hub examples with more recent ones from 2016.
+UPDATE: I've replaced the 2015 Course Hub examples with more recent ones.
