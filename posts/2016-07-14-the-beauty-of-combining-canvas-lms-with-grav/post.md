@@ -21,8 +21,6 @@ taxonomy:
 
 This post was inspired by the very informative July 14th [BCcampus](bccampus.ca) Canvas LMS session with [Stan Wendt](https://twitter.com/stanwendt) and moderated by [Clint Lalonde](https://twitter.com/clintlalonde).
 
-! For people who are interested in _blending_ a Grav CMS site within their Canvas course site, the [Redirect Tool](https://www.eduappcenter.com/apps/63#.WUFlPhPysXo) is surprisingly versatile. View a demo of this technique at [https://canvas.sfu.ca/courses/33510/external_tools/5483](https://canvas.sfu.ca/courses/33510/external_tools/5483) using my [Grav CMS ePortfolio Blog package](http://learn.hibbittsdesign.org/eportfolioblog).
-
 If my reading of the tea leaves is correct, there could be a big uptake of the use of the [Canvas LMS](https://www.canvaslms.com/) in Canada with news of a possible hosted in Canada cloud offering. As a sessional faculty member of the [Computing Science Department](http://www.sfu.ca/computing.html) at [Simon Fraser University](http://www.sfu.ca) I've been using Canvas for the past several years and I thought it might be helpful for other potential users of Canvas to share my experiences so far.
 
 ===
@@ -74,6 +72,8 @@ And the same page when viewed on a mobile device:
 ![2016 CMPT 363 Course Hub Homepage on Mobile](cmpt-363-163-homepage-mobile.png)
 
 Perhaps you are now wondering what my students thought about this approach? When asked if they would like to see the same overall course hub design used for other courses just over 80% of responding students answered yes. You can read more about the details of my student's feedback and resulting changes at [storify.com/paulhibbitts/flipped-lms](https://storify.com/paulhibbitts/flipped-lms).
+
+! For people who are interested in _blending_ a Grav CMS site within their Canvas course site, the [Redirect Tool](https://www.eduappcenter.com/apps/63#.WUFlPhPysXo) is surprisingly versatile. View a demo of this technique at [https://canvas.sfu.ca/courses/33510/external_tools/5483](https://canvas.sfu.ca/courses/33510/external_tools/5483) using my [Grav CMS ePortfolio Blog package](http://learn.hibbittsdesign.org/eportfolioblog).
 
 ####But Wait, There's Even More
 The real benefits of using Grav come through for those instructors who want to not only have their materials in the open (which they can do the Canvas too) but to take advantage of today's modern ecosystem of collaborative tools like [GitHub](https://github.com) or [GitLab](https://gitlab.com). For my students, many enrolled in Computing Science, using tools they will more likely use _after_ school makes more sense as compared to using tools they will never use after school (i.e. most LMSs).
