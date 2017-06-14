@@ -8,7 +8,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'The Beauty of Combining Canvas with the Grav CMS'
     'twitter:description': 'A look at my experiences of using Canvas along with the Grav CMS at Simon Fraser University.'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2016-07-14-the-beauty-of-combining-canvas-lms-with-grav/cmpt-363-homepage.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2016-07-14-the-beauty-of-combining-canvas-lms-with-grav/cmpt-363-163-homepage'
 taxonomy:
     tags:
         - GravCMS
@@ -44,8 +44,8 @@ For my past SFU CMPT 363 (User Interface Design) courses, I have found the most 
 
 While no system is perfect, a lot of thought has clearly gone into many of the features listed above. For example, when grading a forum discussion I can easily require a student to submit their initial post before being able to see their peers' comments - perfect when asking for students to submit their one-minute summary after each class they attend.
 
-Here is a screenshot of my 2015 CMPT 363 Canvas course site homepage:
-![CMPT 2015 363 Canvas Homepage](cmpt-363-canvas-homepage.png)
+Here is a screenshot of my 2016 CMPT 363 Canvas course site homepage:
+![CMPT 2016 363 Canvas Homepage](cmpt-363-canvas-homepage-2016.png)
 
 ####Tradeoffs
 So while Canvas has a lot of _elements_ I find very useful from a pedagogical perspective, as a _platform_ I often find it too limiting. While Canvas is indeed very easy to use it is also quite constraining with regards to  what a _moderately tech-savvy_ instructor can do within it.
@@ -65,11 +65,11 @@ The approach I have taken (which I call a 'flipped LMS') is to create an alterna
 
 For example, my CMPT 363 course involves a lot of design work for my students so I want my course site to provide performance support tools such as a floating Livechat widget and access to my custom-made [UX Techniques Guide](http://paulhibbitts.net/cmpt-363-153/ux-techniques-guide) to provide real-time assistance to students at the time of need. Both of these example elements are not possible within Canvas at this time, but can be easily integrated into a Grav front-end (which I refer to as the 'Course Hub'). As Canvas also supports automatic authentication flow through for deep-links, so I can easily include links to specific elements (e.g. weekly quizzes) from my Course Hub to Canvas with a streamlined workflow for my students.
 
-Here is a screenshot of my 2015 CMPT 363 course site:
-![2015 CMPT 363 Course Hub Homepage](cmpt-363-153-homepage.png)
+Here is a screenshot of my 2016 CMPT 363 course site:
+![2016 CMPT 363 Course Hub Homepage](cmpt-363-163-homepage.png)
 
 And the same page when viewed on a mobile device:
-![2015 CMPT 363 Course Hub Homepage on Mobile](cmpt-363-153-homepage-mobile.png)
+![2016 CMPT 363 Course Hub Homepage on Mobile](cmpt-363-163-homepage-mobile.png)
 
 Perhaps you are now wondering what my students thought about this approach? When asked if they would like to see the same overall course hub design used for other courses just over 80% of responding students answered yes. You can read more about the details of my student's feedback and resulting changes at [storify.com/paulhibbitts/flipped-lms](https://storify.com/paulhibbitts/flipped-lms).
 
@@ -79,23 +79,25 @@ The real benefits of using Grav come through for those instructors who want to n
 All content within Grav is stored as simple files, which means that you can choose to use a version control system such as GitHub or a locally hosted instance of GitLab to enable students (or anyone else _you_ choose) to modify not only the content of a Grav Course Hub but also it's behavior (i.e. code/logic). You can also provide direct links from every Grav page to take a site visitor directly to a GitHub/GitLab page to submit changes for review. In addition to HTML, Grav supports the [Markdown](https://daringfireball.net/projects/markdown/) format, which is an excellent standards-based method for content reuse on a variety of platforms (copying and pasting content from Canvas, or any other LMS for that matter, into another platform makes me shudder).
 
 Here is an example Grav Course Hub page, with a link to edit that page via GitHub:
-![Canvas 2015 CMPT 363 Syllabus](resources-web.png)
+![Canvas 2016 CMPT 363 Syllabus](resources-web-2016.png)
 
 And here is what the same page on GitHub looks like:
-![Canvas 2015 CMPT 363 Syllabus on GitLab](resources-github.png)
+![Canvas 2016 CMPT 363 Syllabus on GitLab](resources-github-2016.png)
 
 In addition to opening up all kinds of collaborative editing possibilities with very comprehensive version tracking, the use of GitHub/GitLab with Grav also can dramatically decrease the time it takes to update your course materials. With locally running a copy of your Grav site with a Mac/Windows application called [MAMP](http://mamp.info) you can edit course materials in the desktop text editor of your choice and very quickly commit and deploy these changes to your Webserver in as little time as _30 seconds_.
 
-What about wanting to display your Grav Course Hub content within Canvas? Using the Canvas elements of Modules you can embed any page within your Grav Course Hub, and by passing a parameter in the URL have only that page's content displayed and not the surrounding navigation elements (i.e. site header image, navbar, sidebar, etc.). View a live example by comparing the standard display of  [paulhibbitts.net/cmpt-363-153/home/week-01/](http://www.paulhibbitts.net/cmpt-363-153/home/week-01/) and then the same page with the use of the 'onlydisplaypagecontent' URL parameter at [paulhibbitts.net/cmpt-363-153/home/week-01/onlydisplaypagecontent:true](http://www.paulhibbitts.net/cmpt-363-153/home/week-01/onlydisplaypagecontent:true).
+What about wanting to display your Grav Course Hub content within Canvas? Using the Canvas elements of Modules you can embed any page within your Grav Course Hub, and by passing a parameter in the URL have only that page's content displayed and not the surrounding navigation elements (i.e. site header image, navbar, sidebar, etc.). View a live example by comparing the standard display of  [http://paulhibbitts.net/cmpt-363-163-archive/home/week-01](http://paulhibbitts.net/cmpt-363-163-archive/home/week-01) and then the same page with the use of the 'onlydisplaypagecontent' URL parameter at [http://paulhibbitts.net/cmpt-363-163-archive/home/week-01/onlydisplaypagecontent:true](http://paulhibbitts.net/cmpt-363-163-archive/home/week-01/onlydisplaypagecontent:true).
 
-You can explore the online archive of my 2015 CMPT 363 course hub at [paulhibbitts.net/cmpt-363-153/](http://www.paulhibbitts.net/cmpt-363-153/).
+You can explore the online archive of my 2016 CMPT 363 course hub at [paulhibbitts.net/cmpt-363-163-archive/](http://www.paulhibbitts.net/cmpt-363-163-archive/).
 
 ####Where To Go From Here?
 I hope that the experiences I've described above gives you a better sense of what you can do within the Canvas platform itself, and as well in combination with an open and collaborative Web platform such as Grav.
 
 If you want to learn more about the flipped-LMS approach using Grav as an open and collaborative platform check out my blog at [hibbittsdesign.org](http://hibbittsdesign.org/blog).
 
-To help other tech-savvy instructors flip their LMS (including Canvas) with Grav I've also created the open source [Grav Course Hub project](https://github.com/hibbitts-design/grav-skeleton-course-hub) - including a [Grav Course Hub Getting Started Guide](http://www.hibbittsdesign.org/blog/posts/2016-02-12-grav-course-hub-getting-started-guide)
+To help other tech-savvy instructors flip their LMS (including Canvas) with Grav I've also created the open source [Grav Course Hub project](https://github.com/hibbitts-design/grav-skeleton-course-hub) - including detailed [Grav Course Hub Documentation](http://learn.hibbittsdesign.org/coursehub)
 
 If you prefer video over text, you might find this 10-minute overview of the Grav Course Hub of interest (originally presented at the [Open Apereo 2016 Conference](http://conference.apereo.org/)):
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XUJIbxDuPpQ" frameborder="0" allowfullscreen></iframe>
+
+UPDATE: I've replaced the original Course Hub examples with more recent ones from 2016.
