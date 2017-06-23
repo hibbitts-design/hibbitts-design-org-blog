@@ -11,12 +11,12 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : 'Grav + Canvas LMS: Markdown and Git Workflows, a Video Playlist'
-    'twitter:description' : A collection of videos demonstrating how Grav with Git Sync can bring an efficient and flexible Markdown content workflow into Canvas.
+    'twitter:title' : 'Grav and Canvas LMS Playlist'
+    'twitter:description' : A collection of videos demonstrating how Grav with Git Sync brings an efficient and flexible Markdown content workflow into Canvas.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-06-23-grav-canvas-lms-markdown-and-git-workflows/playlist.png'
-    'og:title' : 'Grav + Canvas LMS: Markdown and Git Workflows, a Video Playlist'
+    'og:title' : 'Grav and Canvas LMS Playlist'
     'og:image' : 'http://hibbittsdesign.org/blog/posts/2017-06-23-grav-canvas-lms-markdown-and-git-workflows/playlist.png'
-    'og:description' : A collection of videos demonstrating how Grav with Git Sync can bring an efficient and flexible Markdown content workflow into Canvas.
+    'og:description' : A collection of videos demonstrating how Grav with Git Sync brings an efficient and flexible Markdown content workflow into Canvas.
     'og:url' : 2017-06-23-grav-canvas-lms-markdown-and-git-workflowsn
 ---
 
