@@ -17,7 +17,7 @@ metadata:
     'og:title' : 'Grav and Canvas LMS Playlist'
     'og:image' : 'http://hibbittsdesign.org/blog/posts/2017-06-23-grav-canvas-lms-markdown-and-git-workflows/playlist.png'
     'og:description' : A collection of videos demonstrating how Grav with Git Sync brings an efficient and flexible Markdown content workflow into Canvas.
-    'og:url' : 2017-06-23-grav-canvas-lms-markdown-and-git-workflowsn
+    'og:url' : 2017-06-23-grav-canvas-lms-markdown-and-git-workflows
 ---
 
 A collection of videos demonstrating how Grav with Git Sync can bring an efficient and flexible Markdown content workflow into Canvas LMS (or any other system supporting embeddable Web pages).
