@@ -1,7 +1,7 @@
 ---
 title: "Using Grav with Git Sync and GitBook"
 date: 07/04/2017
-published: false
+publish_date: 07/04/2017
 continue_link: false
 taxonomy:
     tags:
