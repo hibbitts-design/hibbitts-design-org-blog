@@ -38,7 +38,7 @@ _The creation and (often frequently needed) updating of online course materials 
 Once again thanks to the Git Sync Plugin, course hub contributors can synchronize Course Hub content (even including theme files) to their own desktop and use the text editor of their choice to update content. Edits, and pushing updates to a live Course Hub site, can be done in as little as 30 seconds.
 
 _Once created, online course materials are difficult to repurpose on different platforms for different contexts_  
-The Grav CMS uses [Markdown](https://en.wikipedia.org/wiki/Markdown), which is rapidly becoming the modern standard for platform-independent markup for content.
+Since Grav CMS uses [Markdown](https://en.wikipedia.org/wiki/Markdown) files, which is rapidly becoming the modern standard for platform-independent markup for content, it makes the repurposing content a very straightforward process.
 
 _Unable to leverage existing Web authoring skills or standards on the current Learning Platform_  
 With Grav CMS built using many of today's best standards (i.e. Markdown, Twig, YAML, etc.) and extensible architecture both educators and students can further shape the Course Hub using their Web authoring skills.
