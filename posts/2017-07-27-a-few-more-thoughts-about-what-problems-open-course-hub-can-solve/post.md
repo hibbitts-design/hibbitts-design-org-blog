@@ -43,7 +43,7 @@ Since Grav CMS uses [Markdown](https://en.wikipedia.org/wiki/Markdown), which is
 _**Unable to leverage existing Web authoring skills or standards on the current Learning Platform**_  
 With Grav CMS built using many of today's best standards (i.e. Markdown, Twig, YAML, etc.) and extensible architecture both educators and students can further shape the Course Hub using their Web authoring skills.
 
-In addition, the Grav Open Course Hub was intentionally designed to work with your existing Learning Platform (by 'flipping' it and making the Course Hub the primary online space for students, as shown below with an LMS as the existing Learning Platform). This means that instructors can immediately try to address the above problems while still using their existing Learning Platform to store sensitive student data and other course requirements.
+In addition, the Grav Open Course Hub was intentionally designed to work with your existing Learning Platform (by 'flipping' it and making the Course Hub the primary online space for students, as shown below with an LMS as the existing Learning Platform). This means that instructors can immediately start to address the above problems while still using their existing Learning Platform to store sensitive student data and other course requirements.
 
 ![Git Sync Wizard](flipped-lms.png)  
 _Figure 1. Flipped LMS approach using Grav Open Course Hub with Git Sync_
