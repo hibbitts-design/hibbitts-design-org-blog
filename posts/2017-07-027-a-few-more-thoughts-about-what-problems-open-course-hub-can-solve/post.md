@@ -15,7 +15,7 @@ metadata:
 
 _I recently [tweeted the key problems Grav Open Course Hub was created to solve] (https://twitter.com/hibbittsdesign/status/890281333011824640) for tech-savvy educators, and I thought I would share them here:_
 
-1. Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS)
+1. Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) alone
 2. Student and facilitator experiences, especially multi-device, are below expectations
 3. Ability to access, share and collaboratively edit course materials are too limited
 4. The creation and updating of online course materials takes more time than desired
