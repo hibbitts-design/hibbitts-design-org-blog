@@ -14,7 +14,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-07-27-a-few-more-thoughts-about-what-problems-open-course-hub-can-solve/flipped-lms.png'
 ---
 
-_I recently [tweeted the key problems Grav Open Course Hub was created to solve](https://twitter.com/hibbittsdesign/status/890281333011824640) for tech-savvy educators, and I thought I would share them here:_
+_I recently [tweeted the key problems Grav Open Course Hub was created to solve](https://twitter.com/hibbittsdesign/status/890281333011824640) for **tech-savvy educators**, and I thought I would share them here:_
 
 1. Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) alone
 2. Student and facilitator experiences, especially multi-device, are below expectations
