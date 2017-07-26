@@ -29,7 +29,7 @@ _Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) 
 Since the Course Hub is built with the extensible [Grav CMS](https://getgrav.org/) and an individual instance of Grav is used for each course, educators have no limits to what additional elements they can embed into their Course Hubs.
 
 _Student and facilitator experiences, especially multi-device, are below expectations_  
-The two available Course Hub themes (one based on [Bootstrap(https://getbootstrap.com/)], the other on [Zurb Foundation](http://foundation.zurb.com/)) are completely responsive, and Grav's speedy performance further enhances multi-device delivery of content.
+The two available Course Hub themes (the default theme is built with  [Bootstrap](https://getbootstrap.com/) and the alternative theme is built with [Zurb Foundation](http://foundation.zurb.com/)) are completely responsive, and Grav's speedy performance further enhances multi-device delivery of content.
 
 _Ability to access, share and collaboratively edit course materials is lacking_  
 Using the Git Sync Plugin, Grav pages be stored and edited with modern collaborative ecosystem tools such as GitHub, GitLab, and GitBook.
