@@ -32,7 +32,7 @@ _Student and facilitator experiences, especially multi-device, are below expecta
 The two available Course Hub themes (the default theme is built with  [Bootstrap](https://getbootstrap.com/) and the alternative theme is built with [Zurb Foundation](http://foundation.zurb.com/)) are completely responsive, and Grav's speedy performance further enhances multi-device delivery of content.
 
 _Ability to access, share and collaboratively edit course materials is lacking_  
-Using the [Git Sync Plugin](https://getgrav.org/blog/git-sync-plugin), Grav pages be stored and edited with modern collaborative ecosystem tools such as GitHub, GitLab, and GitBook.
+Using the [Git Sync Plugin](https://getgrav.org/blog/git-sync-plugin), Grav pages be automatically stored and edited with modern collaborative ecosystem tools such as GitHub, GitLab, and GitBook.
 
 _The creation and (often frequently needed) updating of online course materials is too time consuming_  
 Again leveraging the Git Sync Plugin, course hub contributors can quickly sync site content to their own desktop and use the text editor of their choice to update content. Edits, and syncing to a live site, can be done in as little as 30 seconds.
