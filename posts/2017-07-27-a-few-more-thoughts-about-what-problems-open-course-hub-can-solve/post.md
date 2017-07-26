@@ -35,7 +35,7 @@ _Ability to access, share and collaboratively edit course materials is lacking_
 Using the [Git Sync Plugin](https://getgrav.org/blog/git-sync-plugin), Grav pages be automatically stored and edited with modern collaborative ecosystem tools such as GitHub, GitLab, and GitBook.
 
 _The creation and (often frequently needed) updating of online course materials is too time consuming_  
-Once again thanks to the Git Sync Plugin, course hub contributors can synchronize Course Hub content (even including theme customizations) to their own desktop and use the text editor of their choice to update content. Edits, and pushing updates to a live Course Hub site, can be done in as little as 30 seconds.
+Once again thanks to the Git Sync Plugin, course hub contributors can synchronize Course Hub content (even including theme files) to their own desktop and use the text editor of their choice to update content. Edits, and pushing updates to a live Course Hub site, can be done in as little as 30 seconds.
 
 _Once created, online course materials are difficult to repurpose on different platforms for different contexts_  
 The Grav CMS uses [Markdown](https://en.wikipedia.org/wiki/Markdown), which is rapidly becoming the modern standard for platform-independent markup for content.
