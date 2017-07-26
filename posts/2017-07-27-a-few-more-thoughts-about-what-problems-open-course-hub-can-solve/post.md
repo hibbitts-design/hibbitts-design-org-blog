@@ -25,22 +25,22 @@ _I recently [tweeted the key problems Grav Open Course Hub was created to solve]
 
 Let's take a quick look at how the Grav Open Course Hub addresses each of these problems:
 
-_Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) alone_  
+_**Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) alone**_  
 Since the Course Hub is built with the extensible [Grav CMS](https://getgrav.org/) and an individual instance of Grav is used for each course, educators have no limits to what additional elements they can embed into their Course Hubs.
 
-_Student and facilitator experiences, especially multi-device, are below expectations_  
+_**Student and facilitator experiences, especially multi-device, are below expectations**_  
 The two available Course Hub themes (the default theme is built with  [Bootstrap](https://getbootstrap.com/) and the alternative theme is built with [Zurb Foundation](http://foundation.zurb.com/)) are completely responsive, and Grav's speedy performance further enhances multi-device delivery of content.
 
-_Ability to access, share and collaboratively edit course materials is lacking_  
+_**Ability to access, share and collaboratively edit course materials is lacking**_  
 Using the [Git Sync Plugin](https://getgrav.org/blog/git-sync-plugin), Grav pages be automatically stored and edited with modern collaborative ecosystem tools such as GitHub, GitLab, and GitBook.
 
-_The creation and (often frequently needed) updating of online course materials is too time consuming_  
+_**The creation and (often frequently needed) updating of online course materials is too time consuming**_  
 Once again thanks to the Git Sync Plugin, course hub contributors can synchronize Course Hub content (even including theme files) to their own desktop and use the text editor of their choice to update content. Edits, and pushing updates to a live Course Hub site, can be done in as little as 30 seconds.
 
-_Once created, online course materials are difficult to repurpose on different platforms for different contexts_  
+_**Once created, online course materials are difficult to repurpose on different platforms for different contexts**_  
 Since Grav CMS uses [Markdown](https://en.wikipedia.org/wiki/Markdown), which is rapidly becoming the modern standard for platform-independent markup of content, the opportunities for repurposing content is steadily increasing.
 
-_Unable to leverage existing Web authoring skills or standards on the current Learning Platform_  
+_**Unable to leverage existing Web authoring skills or standards on the current Learning Platform**_  
 With Grav CMS built using many of today's best standards (i.e. Markdown, Twig, YAML, etc.) and extensible architecture both educators and students can further shape the Course Hub using their Web authoring skills.
 
 In addition, the Grav Open Course Hub was intentionally designed to work with your existing Learning Platform (by 'flipping' it and making the Course Hub the primary online space for students, as shown below with an LMS as the existing Learning Platform). This means that instructors can immediately try to address the above problems while still using their existing Learning Platform to store sensitive student data and other course requirements.
