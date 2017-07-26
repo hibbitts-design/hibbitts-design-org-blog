@@ -20,7 +20,7 @@ _I recently [tweeted the key problems Grav Open Course Hub was created to solve]
 2. Student and facilitator experiences, especially multi-device, are below expectations
 3. Ability to access, share and collaboratively edit course materials are too limited
 4. The creation and often frequent updating of online course materials is too time consuming
-5. Once created, online course materials are difficult to reuse/update on different platforms for different contexts
+5. Once created, online course materials are difficult to reuse on different platforms for different contexts
 6. Unable to fully apply existing Web authoring skills in current Learning Platform
 
 With the Grav Open Course Hub intentionally designed to work with your existing Learning Platform (by 'flipping' it, as shown below using an LMS in the example). This means that instructors can immediately try to address the above problems while still using their existing Learning Platform to store sensitive student data and other course requirements.
