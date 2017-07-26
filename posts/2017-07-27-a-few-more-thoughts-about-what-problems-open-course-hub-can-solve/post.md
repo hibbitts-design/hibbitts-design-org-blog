@@ -23,7 +23,7 @@ _I recently [tweeted the key problems Grav Open Course Hub was created to solve]
 5. Once created, online course materials are difficult to repurpose on different platforms for different contexts
 6. Unable to leverage existing Web authoring skills or standards on the current Learning Platform
 
-Let's take a quick look at how the Grav Open Course Hub addresses each of these problems:
+Let's take a quick look at how the [Grav Open Course Hub](http://learn.hibbittsdesign.org/coursehub) addresses each of these problems:
 
 _**Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) alone**_  
 Since the Course Hub is built with the extensible [Grav CMS](https://getgrav.org/) and an individual instance of Grav is used for each course, educators have no limits to what additional elements they can embed into their Course Hubs.
@@ -47,6 +47,5 @@ In addition, the Grav Open Course Hub was intentionally designed to work with yo
 
 ![Git Sync Wizard](flipped-lms.png)  
 _Figure 1. Flipped LMS approach using Grav Open Course Hub with Git Sync_
-
 
 So, do these challenges resonate with you? How are you currently solving them? I'd love to hear from you!
