@@ -10,7 +10,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few More Thoughts About... What Problems Open Course Hub Can Solve
-    'twitter:description' : A list of key problems that Grav Open Course Hub was created to solve.
+    'twitter:description' : A list of key problems that Grav Open Course Hub was created to solve, in partnership with your existing Learning Platform.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-07-27-a-few-more-thoughts-about-what-problems-open-course-hub-can-solve/flipped-lms.png'
 ---
 
