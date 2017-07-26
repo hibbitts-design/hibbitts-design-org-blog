@@ -26,7 +26,7 @@ _I recently [tweeted the key problems Grav Open Course Hub was created to solve]
 Let's take a quick look at how the Grav Open Course Hub addresses each of these problems:
 
 _Pedagogical goals are unmet by the current Learning Platform (e.g. LMS or CMS) alone_  
-Since the Course Hub is built with the extensible [Grav CMS](https://getgrav.org/) and an individual instance of Grav is used for each course, educators have no limits to what additional elements they embed into their Course Hubs.
+Since the Course Hub is built with the extensible [Grav CMS](https://getgrav.org/) and an individual instance of Grav is used for each course, educators have no limits to what additional elements they can embed into their Course Hubs.
 
 _Student and facilitator experiences, especially multi-device, are below expectations_  
 The two available Course Hub themes (one based on [Bootstrap(https://getbootstrap.com/)], the other on [Zurb Foundation](http://foundation.zurb.com/)) are completely responsive, and Grav's speedy performance further enhances multi-device delivery of content.
