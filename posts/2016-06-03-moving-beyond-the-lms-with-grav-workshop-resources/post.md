@@ -18,8 +18,8 @@ taxonomy:
 Here is the list of resources for participants in my **Moving Beyond the LMS with Grav** workshop (URL of this page is  [bit.ly/1Y6Aiso](http://bit.ly/1Y6Aiso)):
 
 # Grav Skeleton Downloads
-* [Grav Demo Site](../../downloads/grav-demo-site.zip) (bit.ly/287a6SL)
-* [Course Hub Skeleton Site](../../downloads/grav-skeleton-course-hub-site.zip) (bit.ly/1QQsJ7z)
+* [Grav Workshop Demo Site](../../downloads/grav-workshop-demo-site.zip)
+* [Course Hub Skeleton Site](../../downloads/grav-skeleton-course-hub-site.zip) 
 
 ===
 
