@@ -10,7 +10,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Learning Ecosystem for CMPT-363 @ SFU 2017
-    'twitter:description' : A diagram of the learning ecosystem assembled for the Fall 2017 offering of CMPT-363.
+    'twitter:description' : A diagram of the learning ecosystem assembled for the Fall 2017 offering of CMPT-363 at Simon Fraser University.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-08-09-cmpt-363-learning-ecosystem/learning-ecosystem-2017-cmpt-363.png'
 ---
 
