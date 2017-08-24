@@ -1,5 +1,5 @@
 ---
-title: "A Few More Thoughts About... the New Grav Open Publishing Space Package"
+title: "A Few Thoughts About... the New Grav Open Publishing Space Package"
 date: 08/24/2017
 published: true
 continue_link: false
@@ -9,7 +9,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : A Few More Thoughts About... the New Grav Open Publishing Space Package
+    'twitter:title' : A Few Thoughts About... the New Grav Open Publishing Space Package
     'twitter:description' : A list of highlights about the new Grav CMS Open Publishing Space package.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-08-24-a-few-thoughts-about-the-new-open-publishing-space-package/screenshot.jpg'
 ---
