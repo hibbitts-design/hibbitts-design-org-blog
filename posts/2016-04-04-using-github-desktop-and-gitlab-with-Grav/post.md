@@ -20,7 +20,7 @@ In this article, we will look at how to use Grav with [GitHub Desktop](https://d
 
 ===
 
-!! This article is now outdated. View the updated [GitLab & GitHub Desktop](http://learn.hibbittsdesign.org/gitlab-githubdesktop) tutorial on the new [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
+!! This article is now outdated. View the updated [GitLab & GitHub Desktop](http://learn.hibbittsdesign.org/gitlab-githubdesktop) or [GitLab & GitHub Desktop Beta](http://learn.hibbittsdesign.org/gitlab-githubdesktop-beta) tutorials on the new [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org) site.
 
 Speaking of Higher Ed folks, if this process looks out of your comfort zone then likely someone in your local IT services should be able to help you get things going pretty quickly by just following this tutorial themselves.
 
