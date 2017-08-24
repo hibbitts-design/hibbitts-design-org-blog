@@ -5,7 +5,7 @@ published: true
 continue_link: false
 taxonomy:
     tags:
-        - CourseHub
+        - OpenPublishingSpace
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
