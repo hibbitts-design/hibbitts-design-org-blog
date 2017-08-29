@@ -25,7 +25,7 @@ The year brings some changes, with the addition of an individual component (refl
 Here is the list of apps I am using to reach my pedagogical and student experience goal (with lots of open source goodness):  
 
 :fa-check: [Grav CMS](https://getgrav.org/)  
-:fa-check: [GitLab](https://about.gitlab.com/)  
+:fa-check: [GitLab](https://about.gitlab.com/) (hosted at [sfu.ca](http://www.sfu.ca/))  
 :fa-check: [GitHub Desktop](https://desktop.github.com/)  
 :fa-check: [Swipe](https://desktop.github.com/)  
 :fa-check: [RocketChat](https://rocket.chat/)  
