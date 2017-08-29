@@ -22,7 +22,7 @@ I've been once again feverishly working in the open on the Fall 2017 Course Hub 
 
 The year brings some changes, with the addition of an individual component (reflective learning log) to the two group assignments and an expansion of the individual usability assessment assignment. Students will research and design potential user experience improvements for an open source project of their choice.  
 
-Here is the list of apps I am using to reach my pedagogical and student experience goals this term (with lots of open source goodness):  
+Here is the list of apps I am using to reach my pedagogical and student/facilitator experience goals this term (with lots of open source goodness):  
 
 :fa-check: [Grav CMS](https://getgrav.org/)  
 :fa-check: [GitLab](https://about.gitlab.com/) (hosted at [sfu.ca](http://www.sfu.ca/))  
