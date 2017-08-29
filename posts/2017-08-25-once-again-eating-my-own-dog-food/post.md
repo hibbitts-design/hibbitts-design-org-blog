@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Once Again Eating my Own Dog Food'
-    'twitter:description': 'A look at my own upcoming SFU CMPT 363 course site, built using the Grav Open Course Hub.'
+    'twitter:description': 'A look at my own upcoming SFU CMPT 363 course site, built using the Grav Open Course Hub. Also includes a list of all apps used.'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-08-25-once-again-eating-my-own-dog-food/cmpt-363-173.png'
 taxonomy:
     tags:
