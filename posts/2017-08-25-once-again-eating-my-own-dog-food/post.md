@@ -32,7 +32,7 @@ Here is the list of apps I am using to reach my pedagogical and student/facilita
 :fa-check: [Sandstorm](https://sandstorm.io/)  
 :fa-check: [Canvas LMS](https://www.canvaslms.com/)  
 
-You can check out the nearly-complete Open Course Hub at [paulhibbitts.net/cmpt-363-173/](http://paulhibbitts.net/cmpt-363-173/).
+You can check out the ~~nearly~~ complete Open Course Hub at [paulhibbitts.net/cmpt-363-173/](http://paulhibbitts.net/cmpt-363-173/).
 
 ![CMPT-363 Fall 2017 Course Hub](cmpt-363-173.png)
 _Figure 1. CMPT-363 Fall 2017 Course Hub_
