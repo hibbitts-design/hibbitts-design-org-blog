@@ -22,5 +22,3 @@ This little project is the result of both a new need for my [Fall 2017 CMPT-363 
 
 <a class="embedly-card" data-card-align="left" href="https://github.com/hibbitts-design/grav-theme-template-embedly-card">Grav Theme Embed.ly Card Template and BluePrint GitHub Repository</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-Happy Halloween🎃
