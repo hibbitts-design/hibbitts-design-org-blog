@@ -6,7 +6,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Why use Canvas for Assessments with Grav CMS for (Open) Content?'
-    'twitter:description': 'An summary of the strengths of using Canvas with Grav.'
+    'twitter:description': 'An summary of the strengths of using the Canvas LMS with the Grav Content Management System.'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2017-11-27-why-use-canvas-for-assessments-with-grav-cms-for-open-content/canvas-cmpt-363-173.png'
 taxonomy:
     tags:
