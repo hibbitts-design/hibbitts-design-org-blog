@@ -18,13 +18,13 @@ taxonomy:
 
 I am excited to be part of [SFU's DEMOfest](http://www.sfu.ca/tlc/programming/special/2017-demofest.html) this year, where I will be presenting and discussing with my fellow educators the advantages of using the Canvas LMS with Grav:
 
-### Canvas Assessment Strengths
+## Canvas Assessment Strengths
 * Assignment submissions and rubrics
 * Surveys, quizzes, and graded discussion forums
 * Multi-course calendar and gradebook  
 **_A safe place for student assignments and data, and where most of our students are!_**
 
-### Grav Content Management System Strengths
+## Grav Content Management System Strengths
 * Free open source software (FOSS) project
 * A modern flat-file (no database) CMS, which supports custom page types and modular content
 * The platform-independent format Markdown is supported, and pages remain as individual files
@@ -33,7 +33,7 @@ I am excited to be part of [SFU's DEMOfest](http://www.sfu.ca/tlc/programming/sp
 
 ===
 
-### Grav Open Course Hub Project
+## Grav Open Course Hub Project
 * Ready-to-run FOSS project, which includes the Grav CMS
 * Provides a blog-like homepage, with areas for important reminders and class preparations
 * Example schedule, resources and syllabus pages are included, and custom pages can be added
@@ -43,7 +43,7 @@ I am excited to be part of [SFU's DEMOfest](http://www.sfu.ca/tlc/programming/sp
 * Edit content with the app of your choice, and easily upload your changes using GitHub Desktop  
 **_A ready-to-run package designed to support a blended course, inside or outside of Canvas!_**
 
-####Want to learn more?
+### Want to learn more?
 **Modern Flat-file Grav CMS**  
 Website: [getgrav.org](https://getgrav.org/)
 
