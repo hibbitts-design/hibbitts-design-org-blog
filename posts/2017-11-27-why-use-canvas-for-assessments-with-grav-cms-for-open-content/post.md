@@ -54,3 +54,6 @@ Website: [getgrav.org](https://getgrav.org/)
 Demo: [demo.hibbittsdesign.org/grav-course-hub](http://demo.hibbittsdesign.org/grav-course-hub)  
 Docs: [learn.hibbittsdesign.org/coursehub](http://learn.hibbittsdesign.org/coursehub)  
 GitHub: [github.com/hibbitts-design](http://github.com/hibbitts-design)  
+
+**Presentation Slides**  
+<div class="videoWrapper"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTszeAJwKZssLD5z3yVGKCLhUwlrlLzbop891WKGbOac4AGg1NDjTIZ8vfqf1qvtOnqISUssrG2DhLM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
