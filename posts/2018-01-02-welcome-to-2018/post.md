@@ -19,5 +19,5 @@ In the meanwhile, I await word for my most recent Grav-related proposal for the 
 
 You can see the results of my further integration of Grav Course Hub within an LMS (in this case Canvas) at [canvas.sfu.ca/courses/34140/](https://canvas.sfu.ca/courses/34140/)
 
-![Grav Course Hub within the Canvas LMS](grav-inside-of-canvas.png)  
-_Figure 1. Grav Course Hub within the Canvas LMS._
+![Grav Course Hub for CMPT-363 within the Canvas LMS](grav-inside-of-canvas.png)  
+_Figure 1. Grav Course Hub for CMPT-363 within the Canvas LMS._
