@@ -6,7 +6,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Welcome to 2018'
-    'twitter:description': 'A long-awaited return to blog posting, and a sneak peek at further integration of Grav and Canvas LMS'
+    'twitter:description': 'A long-awaited return to blog posting, and a sneak peek at further integration of the Grav CMS with Canvas'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-01-02-welcome-to-2018/grav-inside-of-canvas.png'
 taxonomy:
     tags:
