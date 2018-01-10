@@ -29,3 +29,13 @@ To better support display of Course Hub content within Moodle, two new URL flags
 So, for example to embed a Course Hub Unit page summary using an iFrame in Moodle without a page title the HTML would be:
 
         <p><iframe scrolling="no" style="border: 0px #ffffff none; " src="http://demo.hibbittsdesign.org/grav-course-hub-moodle/home/unit-01/chromeless:true/summaryonly:true/hidepagetitle:true" allowfullscreen="allowfullscreen" height="470px" width="100%"></iframe></p>
+
+This results in being able to display Course Hub content almost anywhere within your Moodle site. For example, since the Grav CMS supports modular content (i.e. the same content displayed in multiple locations) you could now take advantage of that ability within Moodle:
+
+![UX Techniques Page](ux-techniques.png)  
+_Figure 2. The 'Problem Statement' topic within the UX Techniques page._
+
+![Unnit Page](week-1.png)  
+_Figure 3. The same 'Problem Statement' topic from the UX Techniques page displayed in a Unit page._
+
+Markdown-based content, support for open and collaborative workflows via Git (i.e. GitHub, GitLab, etc.), editing content on your desktop, it's all now possible within Moodle!
