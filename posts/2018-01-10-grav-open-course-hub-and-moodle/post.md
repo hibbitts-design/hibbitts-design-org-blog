@@ -7,7 +7,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Grav Open Course Hub and Moodle'
     'twitter:description': 'Several new features have been added to the Grav Open Course Hub to improve integration with Moodle'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-01-10-grav-open-course-hub-and-moodle/grav-with-moodle'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-01-10-grav-open-course-hub-and-moodle/grav-with-moodle.png'
 taxonomy:
     tags:
         - GravCMS
