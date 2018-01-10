@@ -8,6 +8,7 @@ taxonomy:
         - GravCMS
         - OpenEdu
         - CanvasLMS
+        - Integration
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

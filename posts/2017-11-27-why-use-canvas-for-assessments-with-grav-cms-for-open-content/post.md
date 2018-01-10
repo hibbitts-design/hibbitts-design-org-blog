@@ -14,6 +14,7 @@ taxonomy:
         - Open
         - CanvasLMS
         - LMS
+        - Integration
 ---
 
 I am excited to be part of [SFU's DEMOfest](http://www.sfu.ca/tlc/programming/special/2017-demofest.html) this year, where I will be presenting and discussing with my fellow educators the advantages of using the Canvas LMS with Grav:
