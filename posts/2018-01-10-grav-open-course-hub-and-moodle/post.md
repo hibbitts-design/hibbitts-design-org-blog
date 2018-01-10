@@ -1,6 +1,6 @@
 ---
 title: 'Grav Open Course Hub and Moodle'
-date: 01/10/2018
+date: 01/11/2018
 continue_link: true
 metadata:
     'twitter:card': summary
