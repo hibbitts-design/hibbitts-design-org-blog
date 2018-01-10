@@ -24,7 +24,7 @@ _Figure 1. Grav Course Hub content within Moodle._
 To better support display of Course Hub content within Moodle, two new URL flags have also been added:
 
 `hidepagetitle:true` to hide the Course Hub page entitled  
-`summaryonly:true` to only display a unit's (week) page summary  
+`summaryonly:true` to only display a Unit's (i.e. class) page summary  
 
 So, for example to embed a Course Hub Unit page summary using an iFrame in Moodle without a page title the HTML would be:
 
