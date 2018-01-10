@@ -14,7 +14,7 @@ taxonomy:
         - Moodle
 ---
 
-Long on my **to-do list** was to further explore how Grav Open Course Hub content could be displayed within the popular open source [Moodle](https://moodle.org/). Curious about the initial results? You can explore a live demo at <a href="http://paulhibbitts.net/moodle/course/view.php?id=2">paulhibbitts.net/moodle/course/view.php?id=2</a> and view some draft docs at [learn.hibbittsdesign.org/coursehub/integrating-grav-with-moodle](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-moodle).
+Long on my **to-do list** was to further explore how Grav Open Course Hub content could be displayed within the popular open source [Moodle](https://moodle.org/) LMS. Curious about the initial results? You can explore a live demo at <a href="http://paulhibbitts.net/moodle/course/view.php?id=2">paulhibbitts.net/moodle/course/view.php?id=2</a> and view some draft docs at [learn.hibbittsdesign.org/coursehub/integrating-grav-with-moodle](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-moodle).
 
 ![Grav Course Hub content within Moodle](grav-with-moodle.png)  
 _Figure 1. Grav Course Hub content within Moodle._
