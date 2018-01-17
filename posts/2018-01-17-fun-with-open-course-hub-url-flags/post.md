@@ -24,8 +24,6 @@ The Grav Open Course Hub supports a number of optional URL flags (i.e. parameter
 `summaryonly` - display the summary of a blog post  
 `hidepagetitle` - hide the title of a page  
 
-===
-
 Each URL flag can be added to a URL referencing a specific page of a Grav Open Course Hub site in the format `flagname:true`, for example:  
 
 `yourgravsite.com/chromeless:true`
@@ -35,6 +33,8 @@ and multiple flags can be used at once, for example:
 `yourgravsite.com/chromeless:true/hidepagetitle:true`
 
 So, time for some live demos!  
+
+===
 
 View the standard Open Course Hub homepage:  
 [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/)
