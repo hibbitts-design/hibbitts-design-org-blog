@@ -16,7 +16,7 @@ taxonomy:
         - Integration
 ---
 
-The Grav Open Course Hub supports a number of optional URL flags, or parameter, to better embed content into other LMSs such as Canvas or Moodle:
+The Grav Open Course Hub supports a number of optional URL flags (i.e. parameters) to better embed Hub content into other LMSs such as Canvas or Moodle:
 
 **URL Flag**  
 `chromeless` - hide all global navigation elements  
