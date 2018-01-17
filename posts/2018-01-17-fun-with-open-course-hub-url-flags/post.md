@@ -76,5 +76,5 @@ _Figure 6. Chromeless Grav Open Course Hub week 4 page with title hidden and sum
 Using the above three URL flags it's possible to embed various elements of your Grav Course Hub site into other LMSs like Canvas and Moodle.
 
 For detailed instructions, these step-by-step guides might be of interest:
-[Open Course Hub - Integrating Grav with Canvas LMS](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-canvas-lms)
-[Open Course Hub - Integrating Grav with Moodle](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-moodle)
+* [Open Course Hub - Integrating Grav with Canvas LMS](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-canvas-lms)
+* [Open Course Hub - Integrating Grav with Moodle](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-moodle)
