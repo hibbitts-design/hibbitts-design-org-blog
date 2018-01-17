@@ -1,5 +1,5 @@
 ---
-title: 'Fun with Open Course Hub (URL) Flags'
+title: 'Fun with (URL) Flags'
 date: 01/17/2018
 continue_link: true
 metadata:
@@ -16,7 +16,7 @@ taxonomy:
         - Integration
 ---
 
-The Open Course Hub supports a number of optional URL flags, or parameter, to better embed content into other LMSs such as Canvas or Moodle:
+The Grav Open Course Hub supports a number of optional URL flags, or parameter, to better embed content into other LMSs such as Canvas or Moodle:
 
 **URL Flag**  
 `chromeless` - hide all global navigation elements  
