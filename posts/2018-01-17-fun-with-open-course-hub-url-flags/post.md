@@ -18,7 +18,7 @@ taxonomy:
 
 The Open Course Hub supports a number of optional URL flags, or parameter, to better embed content into other LMSs such as Canvas or Moodle:
 
-**URL Flag**
+**URL Flag**  
 `chromeless` - hide all global navigation elements  
 `summaryonly` - display the summary of a blog post  
 `hidepagetitle`  - hide the title of a page  
