@@ -14,6 +14,7 @@ taxonomy:
         - Canvas
         - Moodle
         - Integration
+        - URLflags
 ---
 
 <div class="videoWrapper"><iframe src="https://giphy.com/embed/QTwv9aLCaaEgM" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
