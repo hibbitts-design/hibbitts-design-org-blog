@@ -6,7 +6,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Fun with Open Course Hub (URL) Flags'
-    'twitter:description': 'A look at how the built-in URL flags of Open Course Hub helps better integrate content into existing LMSs'
+    'twitter:description': 'A look at how the built-in URL flags of Open Course Hub helps better integrate Grav CMS content into existing LMSs'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-01-17-fun-with-open-course-hub-url-flags/week4-chromeless-summaryonly.png'
 taxonomy:
     tags:
