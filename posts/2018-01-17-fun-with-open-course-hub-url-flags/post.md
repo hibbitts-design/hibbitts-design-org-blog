@@ -16,6 +16,8 @@ taxonomy:
         - Integration
 ---
 
+<iframe src="https://giphy.com/embed/QTwv9aLCaaEgM" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QTwv9aLCaaEgM">via GIPHY</a></p>
+
 The Grav Open Course Hub supports a number of optional URL flags (i.e. parameters) to better embed Hub content into other LMSs such as Canvas or Moodle:
 
 `chromeless` - hide all global navigation elements  
