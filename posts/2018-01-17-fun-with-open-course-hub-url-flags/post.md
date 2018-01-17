@@ -73,7 +73,7 @@ And even just display the summary (preview) of the page:
 ![Chromeless Grav Open Course Hub Week 4 Page with Title Hidden and Summary Only](week4-chromeless-summaryonly.png)  
 _Figure 6. Chromeless Grav Open Course Hub week 4 page with title hidden and summary only._
 
-Using the above three URL flags it's possible to embed various elements of your Grav Course Hub site into other LMSs like Canvas and Moodle.
+Using the above three URL flags it's possible to embed various elements of your Grav Course Hub site into other LMSs like [Canvas](https://canvas.sfu.ca/courses/36662) and [Moodle](http://paulhibbitts.net/moodle/course/view.php?id=2).
 
 For detailed instructions, these step-by-step guides might be of interest:
 * [Open Course Hub - Integrating Grav with Canvas LMS](http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-canvas-lms)
