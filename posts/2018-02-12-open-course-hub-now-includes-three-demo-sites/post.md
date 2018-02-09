@@ -32,8 +32,7 @@ Highlights:
 * One unpublished top-level page ('Schedule')
 * One published but not visible page ('Mini Homepage') for embedding into LMS
 
-Explore a basic demo Open Course Hub site at:  
-[demo.hibbittsdesign.org/grav-skeleton-course-hub-site-basic/](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-basic/)
+Explore a [basic demo Open Course Hub site](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-basic/) or [download a ready-to-run package](http://www.hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-basic.zip).
 
 ![Basic Open Course Hub Site Example Pages](basic-site-pages.png)  
 _Figure 2. Basic Open Course Hub Site Example Pages._
@@ -54,8 +53,7 @@ Highlights:
 * One top-level modular collection page ('UX Techniques')
 * One modular custom content type page ('Web Pick of the Week')
 
-Explore an intermediate demo Open Course Hub site at:  
-[demo.hibbittsdesign.org/grav-skeleton-course-hub-site-intermediate/](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-intermediate/)
+Explore an [intermediate demo Open Course Hub site](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-intermediate/) or [download a ready-to-run package](http://www.hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-intermediate.zip).
 
 ![Intermediate Open Course Hub Site Example Pages](intermediate-site-pages.png)  
 _Figure 5. Intermediate Open Course Hub Site Example Pages._
@@ -79,8 +77,7 @@ Highlights:
 * Two modular custom content type pages ('Web Pick of the Week' and 'Twitter-Feed')
 * Two child collection custom content type pages ('Required Readings' and 'Slide Decks')
 
-Explore an advanced demo Open Course Hub site at:  
-[demo.hibbittsdesign.org/grav-skeleton-course-hub-site-advanced/](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-advanced/)
+Explore an [advanced demo Open Course Hub site](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-advanced/) or [download a ready-to-run package](http://www.hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-advanced.zip).
 
 ![Advanced Open Course Hub Site Example Pages](advanced-site-pages.png)  
 _Figure 8. Advanced Open Course Hub Site Example Pages._
