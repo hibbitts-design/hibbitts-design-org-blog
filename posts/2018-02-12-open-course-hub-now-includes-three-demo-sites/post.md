@@ -17,7 +17,7 @@ taxonomy:
         - URLflags
 ---
 
-With the release of the Open Course Hub 2.0 Bootstrap theme, three example sites are included in the theme's **_demo** folder; _basic_, _intermediate_ and _advanced_. Let's take a brief look at the visual appearance and highlights of each example (as of the v2.08 release):
+With the release of the Open Course Hub 2.0 Bootstrap theme, three demo sites are included in the theme's **_demo** folder; _basic_, _intermediate_ and _advanced_. Let's take a brief look at the visual appearance and highlights of each demo (as of the v2.08 release):
 
 ===
 
