@@ -6,7 +6,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Open Course Hub Package Now Includes Three Site Examples'
-    'twitter:description': 'A brief look at the three site examples now included with Open Course Hub Package.'
+    'twitter:description': 'A brief look at the three site examples now included with the Open Course Hub Package.'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-02-12-open-course-hub-now-includes-three-example-sites/intermediate-open-course-hub.png'
 taxonomy:
     tags:
