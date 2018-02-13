@@ -71,7 +71,7 @@ Highlights:
 * One top-level modular collection page ('UX Techniques')
 * One top-level custom content type page ('UX News')
 * Two custom content type pages for modular use ('Web Pick of the Week' and 'Twitter Feed')
-* Multiple pages of two custom content types for modular use ('Required Readings' and 'Slide Decks')
+* One custom content type listing page, capable of automatically displaying  multiple content types for modular use ('Required Readings' and 'Slides')
 
 Explore an [advanced example Open Course Hub site](http://demo.hibbittsdesign.org/grav-skeleton-course-hub-site-advanced/) or [download a ready-to-run package](http://www.hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-advanced.zip).
 
