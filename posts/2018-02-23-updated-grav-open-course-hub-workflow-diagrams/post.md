@@ -16,7 +16,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-02-23-updated-grav-open-course-hub-workflow-diagrams/grav-open-course-hub-with-git-sync-collaboration.jpg'
 ---
 
-_I recently [tweeted a set of updated Grav Open Course Hub workflows](https://twitter.com/hibbittsdesign/status/966732614018121728), and I thought I would share them here:_
+_I recently [tweeted a set of updated Grav Open Course Hub workflow diagrams](https://twitter.com/hibbittsdesign/status/966732614018121728), and I thought I would share them here:_
 
 ![Grav Open Course Hub Workflow](grav-open-course-hub.jpg)  
 _Figure 1. Grav Open Course Hub Workflow._  
