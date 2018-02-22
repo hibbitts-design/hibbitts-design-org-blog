@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... Updated Grav Open Course Hub Workflows"
+title: "A Few Thoughts About... Updated Grav Open Course Hub Workflow Diagrams"
 date: 02/23/2018
 published: true
 continue_link: true
@@ -11,7 +11,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : A Few Thoughts About... Updated Grav Open Course Hub Workflows
+    'twitter:title' : A Few Thoughts About... Updated Grav Open Course Hub Workflow Diagrams
     'twitter:description' : A set of revised diagrams of the workflows possible with the Grav CMS Open Course Hub.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-02-23-updated-grav-open-course-hub-workflow-diagrams/grav-open-course-hub-with-git-sync-collaboration.jpg'
 ---
