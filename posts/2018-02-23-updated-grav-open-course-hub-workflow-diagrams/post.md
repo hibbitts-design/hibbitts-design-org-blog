@@ -12,7 +12,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... Updated Grav Open Course Hub Workflows
-    'twitter:description' : A set of revised diagrams of the workflows possible with the Grav Open Course Hub.
+    'twitter:description' : A set of revised diagrams of the workflows possible with the Grav CMS Open Course Hub.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-02-23-updated-grav-open-course-hub-workflow-diagrams/grav-open-course-hub-with-git-sync-collaboration.jpg'
 ---
 
