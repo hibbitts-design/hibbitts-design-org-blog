@@ -11,7 +11,6 @@ metadata:
 taxonomy:
     tags:
         - GravCMS
-        - Gravstrap
 ---
 
 When mapping out the design of the [Grav Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub), it was important to support the two most popular responsive Web frameworks ([Bootstrap](http://getbootstrap.com/) and [Foundation](http://foundation.zurb.com/)) so that educators could choose the framework best suited to their multi-device presentation needs.

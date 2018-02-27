@@ -16,6 +16,7 @@ taxonomy:
         - Atom.io
         - GravCMS
         - CanvasLMS
+        - Workflow
 ---
 
 In this article I will describe the workflow details for my Fall 2015 Simon Fraser University [CMPT-363 course companion](http://paulhibbitts.net/cmpt-363-153/), which meets the requirements first outlined in the LinkedIn article [Online Course Companions: Workflow Requirements for (us) Instructors](https://www.linkedin.com/pulse/online-course-companions-some-requirements-us-paul-hibbitts).

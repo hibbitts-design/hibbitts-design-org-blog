@@ -9,6 +9,7 @@ taxonomy:
         - GravCMS
         - FlatFileCMS
         - Tutorial
+        - Workflow
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

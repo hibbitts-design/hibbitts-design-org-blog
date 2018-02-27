@@ -12,7 +12,6 @@ taxonomy:
         - GitLab
         - GitSync
         - OpenEdu
-        - ePortfolioBlog
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

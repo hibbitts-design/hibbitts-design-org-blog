@@ -8,6 +8,7 @@ taxonomy:
         - GitHub
         - GitSync
         - CourseHub
+        - Workflow
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

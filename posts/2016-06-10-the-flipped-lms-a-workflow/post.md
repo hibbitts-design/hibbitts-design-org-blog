@@ -8,6 +8,7 @@ taxonomy:
         - LinkedPost
         - GitHub
         - FTP
+        - Workflow
 link: http://watchtheedge.ca/2016/06/09/working-with-grav/
 process:
     twig: true

@@ -9,6 +9,7 @@ taxonomy:
         - OpenEdu
         - CanvasLMS
         - Integration
+        - Workflow
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

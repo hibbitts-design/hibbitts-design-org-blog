@@ -8,6 +8,7 @@ taxonomy:
       - GravCMS
       - OpenEdu
       - GitHub
+      - Workflow
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

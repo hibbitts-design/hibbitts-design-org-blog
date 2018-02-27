@@ -13,7 +13,6 @@ taxonomy:
         - GitSync
         - OpenEdu
         - OER
-        - OERContentSpace
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

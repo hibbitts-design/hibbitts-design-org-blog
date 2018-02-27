@@ -7,8 +7,6 @@ taxonomy:
         - GravCMS
         - GitHub
         - GitSync
-        - OERContentSpace
-        - ePortfolioBlog
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

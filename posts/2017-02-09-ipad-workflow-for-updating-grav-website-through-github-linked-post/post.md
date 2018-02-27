@@ -8,6 +8,7 @@ taxonomy:
         - GravCMS
         - GitHub
         - GitSync
+        - Workflow
 link: http://blog.trentgill.ca/ipad-workflow-for-updating-grav-website-through-github/
 metadata:
     'twitter:card' : summary
