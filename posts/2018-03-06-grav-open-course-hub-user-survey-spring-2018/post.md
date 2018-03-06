@@ -12,7 +12,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Grav Open Course Hub Spring 2018 User Survey
     'twitter:description' : A 2-minute survey for users of the Grav Open Course Hub.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-03-06-grav-open-course-hub-user-survey-spring-2018/typeform.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-03-06-grav-open-course-hub-spring-2018-user-survey/typeform.png'
 ---
 
 _I recently shared a survey for Grav Open Course Hub users, and I thought I would post it here too:_
