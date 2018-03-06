@@ -10,7 +10,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Grav Open Course Hub Spring 2018 User Survey
+    'twitter:title' : Grav Open Course Hub User Survey (Spring 2018)
     'twitter:description' : A 2-minute survey for users of the Grav Open Course Hub.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-03-06-grav-open-course-hub-user-survey-spring-2018/typeform.png'
 ---
