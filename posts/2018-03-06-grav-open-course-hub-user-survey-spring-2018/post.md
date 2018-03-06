@@ -1,5 +1,5 @@
 ---
-title: "Grav Open Course Hub User Survey)"
+title: "Grav Open Course Hub User Survey"
 date: 02/23/2018
 published: true
 continue_link: false
