@@ -23,7 +23,7 @@ _Figure 1. Grav H5P Shortcode and Admin Panel Editor Button._
 ![Preview of H5P content in the Admin Panel](h5p-shortcode-preview.png)  
 _Figure 2. Preview of H5P content in the Admin Panel._  
 
-The development of this new Shortcode was greatly simplified by the amazing [Shortcode Core Plugin](https://github.com/getgrav/grav-plugin-shortcode-core), which lets Grav authors use their own custom Shortcodes.
+The development of this new Shortcode was greatly simplified by the amazing [Shortcode Core Plugin](https://github.com/getgrav/grav-plugin-shortcode-core), which lets Grav authors add their own custom Shortcodes.
 
 H5P content is still supported via a custom content type (i.e. where custom fields are use to hold H5P information), which provides further flexibility for one instance of a Grav page containing H5P content to be re-used in multiple areas of a site via the Page Inject Plugin.
 
