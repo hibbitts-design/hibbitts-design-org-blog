@@ -15,7 +15,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-04-03-h5p-comes-to-the-grav-open-course-hub/h5p-shortcode-button.png'
 ---
 
-With the most recent release of the Grav Open Course Hub, site authors can insert [H5P](https://h5p.org) content (hosted on h5p.org) into any page using a simple Shortcode (i.e. `[h5p id="712"]`). In addition, a new H5P button is now available in the Admin Panel page editor to make using this Shortcode even easier!
+With the most recent release of the Grav Open Course Hub, site authors can insert [H5P](https://h5p.org) content (hosted on h5p.org) into any page using a simple Shortcode (i.e. `[h5p id="712"]`). In addition, a new H5P button is now available in the Admin Panel page editor to make using the H5P Shortcode even easier!
 
 ![Grav H5P Shortcode and Admin Panel Editor Button](h5p-shortcode-button.png)  
 _Figure 1. Grav H5P Shortcode and Admin Panel Editor Button._  
