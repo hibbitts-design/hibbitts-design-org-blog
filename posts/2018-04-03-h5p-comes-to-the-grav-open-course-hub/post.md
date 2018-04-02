@@ -25,7 +25,7 @@ _Figure 2. Preview of H5P content in the Admin Panel._
 
 The development of this new Shortcode was greatly simplified by the amazing [Shortcode Core Plugin](https://github.com/getgrav/grav-plugin-shortcode-core), which lets Grav authors add their own custom Shortcodes.
 
-H5P content is still supported via a custom content type (i.e. where custom fields are use to hold H5P information), which provides further flexibility for one instance of a Grav page containing H5P content to be re-used in multiple areas of a site via the Page Inject Plugin.
+H5P content is still supported via a custom content type (i.e. where custom fields are use to hold H5P information), which provides further flexibility for displaying one instance of a Grav page containing H5P content in multiple areas of a site via the Page Inject Plugin.
 
 ![H5P custom content type page](h5p-custom-content-type.png)  
 _Figure 3. H5P custom content type page._  
