@@ -1,5 +1,5 @@
 ---
-title: "H5P Comes to Grav Open Course Hub"
+title: "H5P Comes to the Grav Open Course Hub"
 date: 04/03/2018
 published: true
 continue_link: false
@@ -10,9 +10,9 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : H5P Comes to Grav Open Course Hub
+    'twitter:title' : H5P Comes to the Grav Open Course Hub
     'twitter:description' : H5P content, a increasingly popular choice of educators to create interactive content, comes to Grav.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-04-03-h5p-comes-to-grav/h5p-shortcode-button.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-04-03-h5p-comes-to-the-grav-open-course-hub/h5p-shortcode-button.png'
 ---
 
 With the most recent release of the Grav Open Course Hub, site authors can insert [H5P](https://h5p.org) content (hosted on h5p.org) into any page using a simple Shortcode (i.e. `[h5p id="712"]`). In addition, a new H5P button is now available in the Admin Panel page editor to make using this Shortcode even easier!
