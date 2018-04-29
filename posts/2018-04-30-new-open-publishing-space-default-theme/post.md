@@ -15,7 +15,7 @@ taxonomy:
         - OpenPublishingSpace
 ---
 
-[Grav Open Publishing Space Space with Git Sync](http://demo.hibbittsdesign.org/grav-open-publishing-quark/) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS. I am happy to share that now a customized version of the new Grav default theme [Quark](https://github.com/getgrav/grav-theme-quark), using the Lightweight, Responsive and Modern CSS Framework [Spectre CSS Framework](https://picturepan2.github.io/spectre/), is now the standard Open Publishing Space theme!
+[Grav Open Publishing Space Space with Git Sync](http://demo.hibbittsdesign.org/grav-open-publishing-quark/) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS. I am happy to share the news that a customized version of the new Grav default theme [Quark](https://github.com/getgrav/grav-theme-quark), using the Lightweight, Responsive and Modern CSS Framework [Spectre CSS Framework](https://picturepan2.github.io/spectre/), is now the standard Open Publishing Space theme!
 
 ![Open Publishing Space Blog List](bloglist.jpg)
 _Figure 1. Open Publishing Space Blog List_
