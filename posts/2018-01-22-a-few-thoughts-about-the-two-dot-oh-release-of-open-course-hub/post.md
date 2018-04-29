@@ -5,7 +5,7 @@ published: true
 continue_link: true
 taxonomy:
     tags:
-        - OpenPublishingSpace
+        - Open
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
