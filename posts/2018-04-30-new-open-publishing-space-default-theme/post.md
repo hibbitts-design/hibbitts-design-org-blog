@@ -24,7 +24,7 @@ The original Open Publishing Space theme, a customized version of the [Antimatte
 
 ===
 
-One or more Open Publishing Space pages can also be embedded into another system (i.e. LMS or CMS) with the ['Chromeless' ](http://demo.hibbittsdesign.org/grav-open-publishing/chromeless:true) URL Parameter, which hides all global navigation elements (i.e. header image, site navigation bar, sidebar and footer). Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
+One or more Open Publishing Space pages can also be embedded into another system (i.e. LMS or CMS) with the ['Chromeless' ](http://demo.hibbittsdesign.org/grav-open-publishing-quark/chromeless:true) URL Parameter, which hides all global navigation elements (i.e. header image, site navigation bar, sidebar and footer). Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
 
 ![Open Publishing Space Blog List in 'Chromeless' display mode](bloglistchromeless.jpg)
 _Figure 2. Open Publishing Space Blog List in 'Chromeless' display mode_
