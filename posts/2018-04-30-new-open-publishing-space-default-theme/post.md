@@ -1,12 +1,12 @@
 ---
-title: 'New Open Publishing Space Default Theme'
+title: 'New Grav Open Publishing Space Default Theme'
 date: 04/30/2018
 continue_link: true
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
-    'twitter:title': 'New Open Publishing Space Default Theme'
-    'twitter:description': 'Introducing the new default theme for the Open Publishing Space.'
+    'twitter:title': 'New Grav Open Publishing Space Default Theme'
+    'twitter:description': 'Introducing the new default theme for the Grav Open Publishing Space.'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-04-30-new-open-publishing-space-default-theme/bloglistchromeless.jpg'
 taxonomy:
     tags:
