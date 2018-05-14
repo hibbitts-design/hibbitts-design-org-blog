@@ -33,4 +33,4 @@ In this session, Paul will give an overview of the Grav CMS and highlight when i
 
 Presentation Slides ([view this content in Markdown](https://github.com/hibbitts-design/gitpitch/blob/master/fol2018/PITCHME.md))
 <blockquote class="embedly-card"><h4><a href="https://gitpitch.com/hibbitts-design/gitpitch/master?p=fol2018#/">GitPitch Presents: github/hibbitts-design/gitpitch</a></h4><p>The Markdown Presentation Service on Git.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script><br>
