@@ -7,6 +7,7 @@ metadata:
     'twitter:title': 'FoL 2018 Presentation on the Grav Open Course Hub'
     'twitter:description': 'Description of my FoL 2018 Presentation session.'
     'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2018-05-15-festival-of-learning-2018/cmpt-363-canvas-course-hub.png'
+continue_link: true
 taxonomy:
     tags:
         - LMS
