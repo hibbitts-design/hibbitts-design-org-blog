@@ -1,9 +1,9 @@
 ---
 title: Blog
 hide_git_sync_repo_link: false
-body_classes: 'title-h1h2 text-light header-dark header-transparent header-image fullwidth'
+body_classes: 'title-h1h2 header-dark header-transparent header-image fullwidth'
 hero_classes: 'overlay-dark-gradient hero-large parallax'
-blog_url: blog
+blog_url: posts
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
