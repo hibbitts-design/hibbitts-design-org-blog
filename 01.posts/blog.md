@@ -2,7 +2,7 @@
 title: Blog
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent header-image fullwidth'
-hero_classes: 'title-h1h2 text-light overlay-dark-gradient hero-large parallax'
+hero_classes: 'text-light title-h2h3 overlay-dark-gradient hero-large parallax'
 blog_url: posts
 show_sidebar: true
 show_breadcrumbs: true
@@ -27,5 +27,5 @@ pagination: true
 hero_scroll: true
 ---
 
-## **Exploring and Building Open [Source] Software for Learning Ecosystems**
+# Exploring and Building Open [Source] Software for Learning Ecosystems
 ### EXPERIENCE DESIGN / EDUCATION / MULTI-DEVICE / GRAV CMS
