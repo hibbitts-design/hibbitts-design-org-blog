@@ -19,4 +19,4 @@ metadata:
 
 A brief video demonstrating how locally hosted [H5P](https://h5p.org) content can be used with the Grav Open Course Hub (once you have set the source URL of the H5P content):
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/CZbZyljsxwQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/CZbZyljsxwQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

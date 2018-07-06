@@ -19,7 +19,7 @@ taxonomy:
         - URLflags
 ---
 
-<div class="videoWrapper"><iframe src="https://giphy.com/embed/QTwv9aLCaaEgM" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe src="https://giphy.com/embed/QTwv9aLCaaEgM" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 The Grav Open Course Hub supports a number of optional URL flags (i.e. parameters) to better support embedding Hub content into other LMSs such as Canvas or Moodle:
 

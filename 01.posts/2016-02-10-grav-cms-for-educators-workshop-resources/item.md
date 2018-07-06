@@ -77,4 +77,4 @@ Now that you have a Grav site present on your computer you can sync those site f
 * [Getting your project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
 
 # Grav for Educators Workshop Slides
-<div class="videoWrapper"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>

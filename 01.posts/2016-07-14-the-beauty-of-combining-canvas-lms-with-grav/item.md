@@ -78,7 +78,7 @@ Perhaps you are now wondering what my students thought about this approach? When
 ! For people who do not want to fully _'flip'_ Canvas it is also possible to _'embed'_ one or more Grav site pages within their Canvas course site using the surprisingly versatile [Redirect Tool](https://www.eduappcenter.com/apps/63#.WUFlPhPysXo). View a demo of this technique at [https://canvas.sfu.ca/courses/33510/external_tools/5483](https://canvas.sfu.ca/courses/33510/external_tools/5483) using my [Grav CMS ePortfolio Blog package](http://learn.hibbittsdesign.org/eportfolioblog).
 
 Examples of Embedded Markdown/Git (GitHub) Content :
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DYEpmT4U17M?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/DYEpmT4U17M?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV" frameborder="0" allowfullscreen></iframe></div>
 
 ####But Wait, There's Even More
 The real benefits of using Grav come through for those instructors who want to not only have their materials in the open (which they can do the Canvas too) but to take advantage of today's modern ecosystem of collaborative tools like [GitHub](https://github.com) or [GitLab](https://gitlab.com). For my students, many enrolled in Computing Science, using tools they will more likely use _after_ school makes more sense as compared to using tools they will never use after school (i.e. most LMSs).

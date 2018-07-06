@@ -26,4 +26,4 @@ metadata:
 
 A collection of videos demonstrating how Grav with Git Sync can bring an efficient and flexible Markdown content workflow into Canvas LMS (or any other system supporting embeddable Web pages).
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV" frameborder="0" allowfullscreen></iframe></div>

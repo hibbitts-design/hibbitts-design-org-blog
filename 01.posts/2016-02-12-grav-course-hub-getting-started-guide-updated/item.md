@@ -117,7 +117,7 @@ You can view the all of the official Grav documentation at [learn.grav.org](http
 ### Grav for Educators Workshop Slides
 
 If you are new to Grav, you might find these workshop slides helpful:
-<div class="videoWrapper"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ## Using Git and GitHub Desktop
 * [Git for Designers](http://danielfos.co/notes/git-for-designers)  

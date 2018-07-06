@@ -108,7 +108,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
 # Grav for Educators Workshop Slides
 
 If you are new to Grav, you might find these in-progress workshop slides helpful:
-<div class="videoWrapper"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 # Course Companion Page Templates
 * Blog template (blog.html.twig)

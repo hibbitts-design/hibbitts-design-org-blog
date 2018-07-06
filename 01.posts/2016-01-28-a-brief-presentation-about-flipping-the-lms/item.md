@@ -29,4 +29,4 @@ Based on the positive feedback of his students and his own experience, he decide
 In this presentation Paul will share his flipped-LMS approach and introduce his ready-to-run open source [Grav Course Hub](../2016-02-12-grav-course-companion-getting-started-guide) for use by other educators.
 
 ** In-progress Slides **
-<div class="videoWrapper"><iframe src="//slides.com/paulhibbitts/flipping-the-lms-with-an-open-and-collaborative-platform/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe src="//slides.com/paulhibbitts/flipping-the-lms-with-an-open-and-collaborative-platform/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>

@@ -89,6 +89,6 @@ Here is a draft workshop description:
 _Do you have unmet pedagogical goals due to the constraints of your current LMS? Do you want to have a better experience for your students and yourself? In this workshop, Paul will introduce Grav, the modern flat-file (no database) CMS and his open source course companion to help other instructors flip their LMS to overcome these challenges. Participants should be comfortable with editing text files, connecting to a Web server, and be familiar with basic Web page elements._
 
 And here is a peek at the in-progress slides:
-<div class="videoWrapper"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe src="//slides.com/paulhibbitts/grav-cms-for-educators/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Thoughts or comments? You can find me on Twitter at [@hibbittsdesign](https://twitter.com/hibbittsdesign).

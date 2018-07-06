@@ -24,6 +24,6 @@ metadata:
 
 Here is a brief video demonstrating how Grav with Git Sync can be configured to use [GitBook](https://www.gitbook.com/) for collaboratively editing Markdown content.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/HVk76h5OWi8" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-responsive video-responsive-4-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/HVk76h5OWi8" frameborder="0" allowfullscreen></iframe></div>
 
 Look of interest? For step-by-step instructions visit [learn.hibbittsdesign.org/grav-with-gitsync-and-gitbook](http://learn.hibbittsdesign.org/grav-with-gitsync-and-gitbook).
