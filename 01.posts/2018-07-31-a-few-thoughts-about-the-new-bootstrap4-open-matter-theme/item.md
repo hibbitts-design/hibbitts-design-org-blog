@@ -23,8 +23,6 @@ _While I've been in 'heads-down' mode with my SFU [CMPT 363 User Interface Desig
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s an unofficial official release (like &#39;double secret probation&#39;) - the Bootstrap4 Open Matter theme is now at <a href="https://t.co/UDkA52gP6f">https://t.co/UDkA52gP6f</a>. This one theme can create open + collaborative Markdown-based blogs, course hubs and more! Git Sync &amp; &#39;chromeless&#39; content display included👍 <a href="https://t.co/Qrdy6D5oTb">pic.twitter.com/Qrdy6D5oTb</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1024337460698931200?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-===
-
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Here is a live Course Hub built with the Bootstrap4 Open Matter theme, seamlessly syncing to my Canadian hosted <a href="https://twitter.com/gitlab?ref_src=twsrc%5Etfw">@gitlab</a> server (FIPPA❤️):<a href="https://t.co/lQYpthkzM6">https://t.co/lQYpthkzM6</a><br>And here is an example Open Blog (OER 5R❤️, seamlessly syncing to a <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@GitHub</a> repository:<a href="https://t.co/nQArUBTJi6">https://t.co/nQArUBTJi6</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1024339046888235008?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
