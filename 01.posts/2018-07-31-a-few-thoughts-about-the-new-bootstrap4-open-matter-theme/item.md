@@ -18,7 +18,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-07-31-a-few-thoughts-about-the-new-bootstrap4-open-matter-theme/screenshot.jpg'
 ---
 
-_While I've been in 'heads-down' mode with my SFU [CMPT 363 User Interface Design](http://paulhibbitts.net/cmpt-363-182/) course this summer I've been working away on a brand new Bootstrap 4 based theme for Grav. I recently tweeted a few highlights about the early release of this new theme, called Bootstrap4 Open Matter, and I thought I would share them here:_
+_While I've been in 'heads-down' mode with my SFU [CMPT 363 User Interface Design](http://paulhibbitts.net/cmpt-363-182/) course this summer I've also been working away on a brand new Bootstrap 4 based theme for Grav. I recently tweeted a few highlights about the early release of this new theme, called Bootstrap4 Open Matter, and I thought I would share them here:_
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s an unofficial official release (like &#39;double secret probation&#39;) - the Bootstrap4 Open Matter theme is now at <a href="https://t.co/UDkA52gP6f">https://t.co/UDkA52gP6f</a>. This one theme can create open + collaborative Markdown-based blogs, course hubs and more! Git Sync &amp; &#39;chromeless&#39; content display included👍 <a href="https://t.co/Qrdy6D5oTb">pic.twitter.com/Qrdy6D5oTb</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1024337460698931200?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
