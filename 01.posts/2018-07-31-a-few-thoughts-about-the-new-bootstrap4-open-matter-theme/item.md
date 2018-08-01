@@ -2,7 +2,7 @@
 title: "A Few Thoughts About... the new Bootstrap4 Open Matter Theme"
 date: 07/31/2018
 published: true
-continue_link: false
+continue_link: true
 header_image: false
 taxonomy:
     category: blog
