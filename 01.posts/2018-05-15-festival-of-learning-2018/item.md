@@ -18,6 +18,11 @@ continue_link: true
 header_image: false
 taxonomy:
     category: blog
+    tag:
+        - CourseHub
+        - OpenPublishing
+        - CanvasLMS
+        - Open
 ---
 
 I am excited to be sharing the most recent developments of my Grav Open Course Hub project at the [Festival of Learning](https://bccampus.ca/festival-of-learning-2018/) on May 29th.

@@ -13,7 +13,7 @@ taxonomy:
         - GitHub
         - GitLab
         - GitSync
-        - OpenEdu
+        - Open
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

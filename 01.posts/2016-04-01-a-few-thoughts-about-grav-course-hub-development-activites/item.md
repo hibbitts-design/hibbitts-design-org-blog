@@ -7,7 +7,7 @@ header_image: false
 taxonomy:
     category: blog
     tag:
-        - OpenPractice
+        - Open
         - ExperienceDesign
 metadata:
     'twitter:card' : summary

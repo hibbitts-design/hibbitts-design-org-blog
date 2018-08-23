@@ -14,7 +14,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - Guide
+        - Documentation
 ---
 
 This is a guide on how to setup your Grav Course Hub for a single course using the Admin Panel (accessed by adding ‘/admin’ to the Browser URL of your Grav site) or directly working with files. This guide assumes you have the [Grav Course Hub up and running](../2016-02-12-grav-course-hub-getting-started-guide) and that you are familiar with the [basics of Grav](https://learn.getgrav.org/basics/basic-tutorial).

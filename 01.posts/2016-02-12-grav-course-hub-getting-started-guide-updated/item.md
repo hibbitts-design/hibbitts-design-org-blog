@@ -12,7 +12,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - Guide
+        - Documentation
 ---
 
 This is a brief guide to help educators use the [Grav Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) as an open and collaborative multi-device partner for their LMS. In other words, to '[flip'](../2015-10-20-flipped-lms-defined) it good!  

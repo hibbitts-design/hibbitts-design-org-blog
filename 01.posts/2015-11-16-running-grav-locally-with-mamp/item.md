@@ -13,7 +13,7 @@ taxonomy:
         - GravCMS
         - MAMP
         - GitHub
-        - Tutorial
+        - Documentation
 ---
 
 One of the (many) great things about using the open source CMS [Grav](http://getgrav.org) for a [flipped-LMS approach](/posts/2015-10-20-flipped-lms-defined) is that no database is required, which makes running a local copy of Grav on your computer for testing purposes a very straightforward process. This also makes deployment to a Web server a breeze - just a simple folder copy.

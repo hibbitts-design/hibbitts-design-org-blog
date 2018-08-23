@@ -8,7 +8,7 @@ taxonomy:
     category: blog
     tag:
         - Open
-        - OpenMatter
+        - CourseHub
         - Bootstrap4
 metadata:
     'twitter:card' : summary

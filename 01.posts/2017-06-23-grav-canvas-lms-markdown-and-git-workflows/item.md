@@ -8,7 +8,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - OpenEdu
+        - Open
         - CanvasLMS
         - Integration
         - Workflow

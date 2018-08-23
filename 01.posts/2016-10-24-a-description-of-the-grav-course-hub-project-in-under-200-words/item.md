@@ -8,7 +8,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - OpenEdu
+        - Open
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

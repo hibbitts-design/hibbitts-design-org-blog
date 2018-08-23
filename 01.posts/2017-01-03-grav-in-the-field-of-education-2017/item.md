@@ -12,8 +12,8 @@ taxonomy:
         - GitHub
         - GitLab
         - GitSync
-        - OpenEdu
-        - OpenBlog
+        - Open
+        - Open
         - OER
 metadata:
     'twitter:card' : summary

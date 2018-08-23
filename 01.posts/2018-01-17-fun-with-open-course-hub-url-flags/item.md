@@ -13,7 +13,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - Canvas
+        - CanvasLMS
         - Moodle
         - Integration
         - URLflags

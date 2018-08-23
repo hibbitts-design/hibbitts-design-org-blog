@@ -12,7 +12,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - Guide
+        - Documentation
 ---
 
 This is a brief guide to help tech-savvy educators ['flip'](../2015-10-20-flipped-lms-defined) their LMS with the modern flat-file (no database) CMS [Grav](http://www.getgrav.org) and my open source [Course Hub ](https://github.com/hibbitts-design/grav-skeleton-course-hub) skeleton package.  

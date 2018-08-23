@@ -7,7 +7,7 @@ header_image: false
 taxonomy:
     category: blog
     tag:
-        - OpenPractice
+        - Open
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

@@ -1,6 +1,6 @@
 ---
 title: 'Including Multiple Courses Within a Hub'
-published: true
+published: false
 date: 06/15/2016
 continue_link: true
 header_image: false

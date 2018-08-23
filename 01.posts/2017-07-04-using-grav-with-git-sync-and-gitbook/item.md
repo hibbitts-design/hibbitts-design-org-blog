@@ -8,7 +8,7 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - OpenEdu
+        - Open
         - GitBook
 metadata:
     'twitter:card' : summary

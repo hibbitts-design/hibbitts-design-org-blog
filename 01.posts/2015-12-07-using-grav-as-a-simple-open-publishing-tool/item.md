@@ -5,11 +5,11 @@ published: true
 taxonomy:
     category: blog
     tag:
-        - OpenPractice
+        - Open
         - GitHub
         - GravCMS
         - FlatFileCMS
-        - Tutorial
+        - Documentation
         - Workflow
 metadata:
     'twitter:card' : summary

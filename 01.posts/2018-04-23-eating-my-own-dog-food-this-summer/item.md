@@ -16,7 +16,7 @@ taxonomy:
         - GravCMS
         - FlippedLMS
         - CanvasLMS
-        - OpenPractice
+        - Open
         - DogFood
 ---
 

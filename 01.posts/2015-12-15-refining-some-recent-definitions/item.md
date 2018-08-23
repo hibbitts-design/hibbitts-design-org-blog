@@ -6,7 +6,7 @@ taxonomy:
     category: blog
     tag:
         - Flipped-LMS
-        - OpenPractice
+        - Open
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

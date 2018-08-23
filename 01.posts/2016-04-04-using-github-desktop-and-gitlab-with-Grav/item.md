@@ -14,7 +14,7 @@ taxonomy:
         - GravCMS
         - GitLab
         - GitHubDesktop
-        - Tutorial
+        - Documentation
 ---
 
 In this article, we will look at how to use Grav with [GitHub Desktop](https://desktop.github.com/) and [GitLab](https://about.gitlab.com/). Unlike GitHub, you can install GitLab onto your own server, which is an attractive option for many higher education institutions. A locally hosted version of GitLab is used in this walkthrough.

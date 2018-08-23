@@ -7,7 +7,6 @@ taxonomy:
     category: blog
     tag:
         - LMS
-        - CMS
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

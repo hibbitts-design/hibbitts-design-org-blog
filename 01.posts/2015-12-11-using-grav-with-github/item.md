@@ -5,7 +5,7 @@ published: true
 taxonomy:
     category: blog
     tag:
-        - OpenPractice
+        - Open
         - GitHub
         - GitHubDesktop
         - MAMP
@@ -13,7 +13,7 @@ taxonomy:
         - FlatFileCMS
         - Deploy
         - BuddyGit
-        - Tutorial
+        - Documentation
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

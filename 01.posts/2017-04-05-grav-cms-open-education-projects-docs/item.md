@@ -7,8 +7,8 @@ taxonomy:
     category: blog
     tag:
         - GravCMS
-        - Guide
-        - Tutorial
+        - Documentation
+        - Documentation
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

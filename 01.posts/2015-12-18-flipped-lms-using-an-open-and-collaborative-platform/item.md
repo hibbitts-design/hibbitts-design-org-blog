@@ -7,7 +7,7 @@ taxonomy:
     tag:
         - Flipped-LMS
         - LMS
-        - OpenPractice
+        - Open
         - GitHub
         - GravCMS
         - Deploy
