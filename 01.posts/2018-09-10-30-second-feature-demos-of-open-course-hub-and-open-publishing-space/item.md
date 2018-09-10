@@ -9,7 +9,8 @@ taxonomy:
     tag:
         - Open
         - CourseHub
-        - Bootstrap4
+        - OpenPublishingSpace
+        - Demos
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
