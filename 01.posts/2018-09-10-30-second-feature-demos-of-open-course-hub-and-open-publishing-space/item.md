@@ -19,7 +19,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-09-10-30-second-feature-demos-of-open-course-hub-and-open-publishing-space/screenshot.jpg'
 ---
 
-_As an experiment I've created a small set of 30-second demo videos to give a glimpse into some major and minor features of my Open Course Hub and Open Publishing Space projects. I recently tweeted these videos and I thought I would share them here too:_
+_As an experiment I've created a small set of 30-second demo videos to give a glimpse into some major and minor features of my Open Course Hub and Open Publishing Space projects. I recently tweeted these videos and thought I would share them here too:_
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ever want to re-purpose site content by embedding a page without its global navigation, sidebar or footer? With the <a href="https://twitter.com/getgrav?ref_src=twsrc%5Etfw">@getgrav</a> Open Course Hub or Publishing Space you can easily do that for any page with the &#39;chromeless&#39; content display URL parameter👇(<a href="https://twitter.com/hashtag/CanvasLMS?src=hash&amp;ref_src=twsrc%5Etfw">#CanvasLMS</a> example shown) <a href="https://t.co/Z8LFgnINZR">pic.twitter.com/Z8LFgnINZR</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1039203190749593601?ref_src=twsrc%5Etfw">September 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
