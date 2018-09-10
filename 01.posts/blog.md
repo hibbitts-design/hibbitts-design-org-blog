@@ -21,7 +21,7 @@ display_post_summary: false
 sitemap:
     changefreq: monthly
 feed:
-    description: 'Sample Blog Description'
+    description: 'HibbittsDesign.org - Experience Design for Open [Source] Learning Environments'
     limit: 10
 pagination: true
 hero_scroll: true
