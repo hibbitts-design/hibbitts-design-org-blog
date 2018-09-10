@@ -26,7 +26,7 @@ _As an experiment I've created a small set of 30-second demo videos to give a gl
 
 ===
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How about wanting to re-purpose multiple pages within another system (i.e. LMS) while still supporting links between those embedded pages? With the <a href="https://twitter.com/getgrav?ref_src=twsrc%5Etfw">@getgrav</a> Open Course Hub or Publishing Space you can easily do that too by using the &#39;chromeless&#39; content display URL parameter🚀 <a href="https://t.co/VnI2knDrKG">pic.twitter.com/VnI2knDrKG</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1039211212163047424?ref_src=twsrc%5Etfw">September 10, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">How about wanting to re-purpose multiple pages within another system (i.e. LMS) while still supporting links between those embedded pages? With the <a href="https://twitter.com/getgrav?ref_src=twsrc%5Etfw">@getgrav</a> Open Course Hub or Publishing Space you can easily do that too by using the &#39;chromeless&#39; content display URL parameter🚀 <a href="https://t.co/VnI2knDrKG">pic.twitter.com/VnI2knDrKG</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1039211212163047424?ref_src=twsrc%5Etfw">September 10, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
