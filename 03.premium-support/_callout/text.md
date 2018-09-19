@@ -16,11 +16,11 @@ Examples of things Hibbitts Design can help you with:
 * Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav content
 
-_Please note that live screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
+_Allow 1-2 business days for a response, but one hour response times are typical 10am-4pm PST. Please note that screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="QGMGRHLY8QDYY">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
