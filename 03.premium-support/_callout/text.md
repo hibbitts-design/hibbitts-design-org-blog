@@ -12,6 +12,7 @@ Examples of things Paul can help you with:
 * Markdown content formatting
 * Site structure and pages
 * Page header options (i.e. Page Frontmatter)
+* Embedding Grav content into your LMS
 * Git Sync setup and customization
 * Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav content
