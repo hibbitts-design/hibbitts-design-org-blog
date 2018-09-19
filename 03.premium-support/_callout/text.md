@@ -5,9 +5,9 @@ image_align: left
 
 ## Premium Support
 
-For a $5 USD/month subscription (introductory offer) get access to a private one-on-one [Slack](https://slack.com/) or [RocketChat](https://rocket.chat/) chat room with Paul to help you setup and configure any of his Grav Open Education packages ([Open Course Matter Hub](http://demo.hibbittsdesign.org/grav-open-matter-course-hub), [Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/), and [Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)).
+For a $5 USD/month subscription (introductory offer) get access to a private one-on-one [Slack](https://slack.com/) or [RocketChat](https://rocket.chat/) chat room with Paul Hibbitts to help you setup and configure any of his [Grav](https://getgrav.org/) Open Education packages ([Open Course Matter Hub](http://demo.hibbittsdesign.org/grav-open-matter-course-hub), [Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/), and [Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)).
 
-Examples of things Hibbitts Design can help you with:  
+Examples of things Paul can help you with:  
 * Configuration of your Grav site
 * Markdown content formatting
 * Site structure and pages
@@ -16,7 +16,7 @@ Examples of things Hibbitts Design can help you with:
 * Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav content
 
-_Please allow 1-2 business days for a response, but one hour response times are typical [10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
+_Please allow 1-2 business days for a response, but under one-hour response times are typical [Monday-Friday 10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
