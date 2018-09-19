@@ -16,7 +16,7 @@ Examples of things I can help you with:
 * Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav content
 
-_Please note that Theme customizations are not included in this service, but can be arranged separately._
+_Please note that live screen sharing and theme customizations are not included in this service, but can be arranged separately._
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
