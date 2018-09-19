@@ -5,7 +5,7 @@ image_align: left
 
 ## Premium Support
 
-For a $5 USD/month subscription (introductory offer) get access to a private one-on-one [Slack](https://slack.com/) or [RocketChat](https://rocket.chat/) chat room with Paul to help you setup and configure any of his Grav Open Education projects ([Open Course Matter Hub](http://demo.hibbittsdesign.org/grav-open-matter-course-hub), [Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/), and [Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)).
+For a $5 USD/month subscription (introductory offer) get access to a private one-on-one [Slack](https://slack.com/) or [RocketChat](https://rocket.chat/) chat room with Paul to help you setup and configure any of his Grav Open Education packages ([Open Course Matter Hub](http://demo.hibbittsdesign.org/grav-open-matter-course-hub), [Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/), and [Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)).
 
 Examples of things I can help you with:  
 * Configuration of your Grav site
