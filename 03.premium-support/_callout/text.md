@@ -16,7 +16,7 @@ Examples of things Hibbitts Design can help you with:
 * Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav content
 
-_Allow 1-2 business days for a response, but one hour response times are typical [10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Please note that screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
+_Please allow 1-2 business days for a response, but one hour response times are typical [10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
