@@ -7,7 +7,7 @@ image_align: left
 
 ##### Educator • Interaction Designer • Open Source Author
 
-Founding one of the first Vancouver companies dedicated to improving the usability of software in 1998 (Hibbitts Design), Paul has delivered design solutions, customized training and practical strategies for a wide range of organizations such as Hewlett Packard, SAP BusinessObjects, The Canadian Real Estate Association and The University of British Columbia. In that time, he both lead and worked alongside teams of all sizes to design more productive and enjoyable interfaces for commercial desktop, mobile and web-based applications, websites, intranets, courseware and amazingly even [CD-ROMs](https://en.wikipedia.org/wiki/CD-ROM).
+Founding one of the first Vancouver companies dedicated to improving the usability of software in 1998 (Hibbitts Design), Paul has delivered design solutions, customized training and practical strategies for a wide range of organizations such as Hewlett Packard, SAP BusinessObjects, The Canadian Real Estate Association and The University of British Columbia. He has both lead and worked alongside teams of all sizes to design more productive and enjoyable interfaces for commercial desktop, mobile and web-based applications, websites, intranets, courseware and (gasp) even CD-ROMs.
 
 Paul has also created and taught software interaction design courses for Simon Fraser University, Emily Carr University of Art and Design, and Continuing Studies for the University of British Columbia. In addition, he has spoken at various local workshops and public events, including the Educational Technology Users Group (ETUG), Agile Vancouver, Festival of Learning 2018, and the Vancouver User Experience Group.
 
