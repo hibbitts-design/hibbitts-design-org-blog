@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Paul
 content:
     items: '@self.modular'
 hide_cc_license: true
