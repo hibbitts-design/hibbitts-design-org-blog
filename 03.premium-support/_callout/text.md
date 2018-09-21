@@ -3,7 +3,7 @@ title: Subscription
 image_align: left
 ---
 
-## Premium Support
+## Priority Support
 
 For a $5 USD/month subscription (introductory offer) get access to a private one-on-one [Slack](https://slack.com/) or [RocketChat](https://rocket.chat/) room with Paul Hibbitts to answer your questions about setting up and using any of his [Grav](https://getgrav.org/) Open Education packages ([Open Course Matter Hub](http://demo.hibbittsdesign.org/grav-open-matter-course-hub), [Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/), and [Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)).
 
@@ -14,7 +14,6 @@ Examples of things Paul can help you with:
 * Page header options
 * Embedding Grav content into other systems (e.g. an LMS)
 * Git Sync setup and customization
-* Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav site
 
 _Please allow 1-2 business days for a response, but under two-hour response times are typical [Monday-Friday 10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._

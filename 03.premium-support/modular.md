@@ -1,5 +1,5 @@
 ---
-title: Premium Support
+title: Priority Support
 content:
     items: '@self.modular'
 hide_cc_license: true
