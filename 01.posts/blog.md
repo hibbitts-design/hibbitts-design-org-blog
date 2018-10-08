@@ -21,11 +21,11 @@ display_post_summary: false
 sitemap:
     changefreq: monthly
 feed:
-    description: 'HibbittsDesign.org - Experience Design for Open [Source] Learning Environments'
+    description: 'HibbittsDesign.org - Exploring and Building Open [Source] Software for OER and Learning Ecosystems'
     limit: 10
 pagination: true
 hero_scroll: true
 ---
 
-# Exploring and Building Open [Source] Software for Learning Ecosystems
-### EXPERIENCE DESIGN / EDUCATION / MULTI-DEVICE / GRAV CMS
+# Exploring and Building Open [Source] Software for Learning Ecosystems and OER
+### EXPERIENCE DESIGN / EDUCATION / OER/ MULTI-DEVICE / GRAV CMS
